@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="24" height="24" fill="none">
+<defs>
+<linearGradient id="a">
+<stop offset="0" style="stop-color:#79afff;stop-opacity:1"/>
+<stop offset="1" style="stop-color:#c6ddff;stop-opacity:1"/>
+</linearGradient>
+<linearGradient xlink:href="#a" id="b" x1="50.511" x2="49.489" y1="90.526" y2="-7.273" gradientTransform="translate(-.222 -.222)scale(.24444)" gradientUnits="userSpaceOnUse"/>
+<clipPath id="c" clipPathUnits="userSpaceOnUse">
+<path d="M0 0h19v19H0Z"/>
+</clipPath>
+<clipPath id="d" clipPathUnits="userSpaceOnUse">
+<path d="M0 0h19v19H0Z"/>
+</clipPath>
+</defs>
+<path d="M12 1C2 1 1 6 1 12c0 8 3 11 11 11s11-3 11-11c0-6-1-11-11-11" style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#b);fill-opacity:1;stroke-width:1.11627;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000;stop-opacity:1"/>
+<g transform="translate(26 .002)">
+<g clip-path="url(#c)" opacity=".65" style="stroke-width:1.17833" transform="translate(-24.186 1.814)scale(1.13151)">
+<g style="stroke-width:1.17833">
+<path d="m6.543 8.105-2.66 5.321c-.156.312-.156.937.469.937h2.859c-.895 0-.895-.894-.668-1.34l1.227-2.457Z" style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17833"/>
+</g>
+</g>
+<path d="M-19.563 5.934a1.26 1.26 0 0 0-1.267 1.262v7.582c0 .7.567 1.262 1.267 1.262h.257l2.524-5.057 1.391 2.782 2.91-5.813 4.044 8.088a1.26 1.26 0 0 0 1.267-1.262V7.196A1.26 1.26 0 0 0-8.437 5.93Z" style="fill:#5c9dff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33331"/>
+<path d="M-11.222 8.459a2.05 2.05 0 0 0-.9.211l1.807 3.621a2.022 2.022 0 0 0-.907-3.832" style="fill:#ffe680;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33331"/>
+<circle cx="-11.207" cy="10.484" r="2.022" style="fill:#ffe680;fill-opacity:1;stroke:none;stroke-width:.799986;paint-order:stroke markers fill"/>
+<g clip-path="url(#d)" opacity=".8" style="stroke-width:1.17833" transform="translate(-24.186 1.814)scale(1.13151)">
+<g style="stroke-width:1.17833">
+<path d="m10.34 5.426-3.797 7.597c-.227.446-.227 1.34.668 1.34h6.258c.894 0 .894-.894.672-1.34z" style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.17833"/>
+</g>
+</g>
+</g>
+</svg>

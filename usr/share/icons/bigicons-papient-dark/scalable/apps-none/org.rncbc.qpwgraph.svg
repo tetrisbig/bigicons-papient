@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="24" height="24" fill="none">
+<path fill="url(#a)" fill-rule="evenodd" d="M9.596 1.114q.18.001.344-.046a32 32 0 0 1 4.307.011q1.951.153 3.78.848 3.038 1.25 4.158 4.339.64 1.86.756 3.824a28 28 0 0 1-.114 4.923 11.9 11.9 0 0 1-.894 3.32q-1.276 2.764-4.135 3.813a15.6 15.6 0 0 1-4.765.825 21.4 21.4 0 0 1-5.453-.413q-4.967-1.106-6.128-6.056a19 19 0 0 1-.447-4.511 18.5 18.5 0 0 1 .515-4.786q1.217-4.629 5.877-5.736a14 14 0 0 1 2.199-.355" clip-rule="evenodd"/>
+<defs>
+<radialGradient xlink:href="#b" id="c" cx="-7.44" cy="5.754" r=".587" fx="-7.44" fy="5.754" gradientTransform="translate(-20)" gradientUnits="userSpaceOnUse"/>
+<radialGradient xlink:href="#b" id="d" cx="-7.44" cy="5.754" r=".587" fx="-7.44" fy="5.754" gradientTransform="translate(-20 6.36)" gradientUnits="userSpaceOnUse"/>
+<radialGradient xlink:href="#b" id="e" cx="-7.44" cy="5.754" r=".587" fx="-7.44" fy="5.754" gradientTransform="translate(-20 12.703)" gradientUnits="userSpaceOnUse"/>
+<radialGradient xlink:href="#b" id="h" cx="-7.44" cy="5.754" r=".587" fx="-7.44" fy="5.754" gradientTransform="translate(-34.688 12.703)" gradientUnits="userSpaceOnUse"/>
+<radialGradient xlink:href="#b" id="g" cx="-7.44" cy="5.754" r=".587" fx="-7.44" fy="5.754" gradientTransform="translate(-34.688 6.36)" gradientUnits="userSpaceOnUse"/>
+<radialGradient xlink:href="#b" id="f" cx="-7.44" cy="5.754" r=".587" fx="-7.44" fy="5.754" gradientTransform="translate(-34.688)" gradientUnits="userSpaceOnUse"/>
+<linearGradient id="b">
+<stop offset="0" style="stop-color:#636363;stop-opacity:1"/>
+<stop offset="1" style="stop-color:#131313;stop-opacity:1"/>
+</linearGradient>
+<linearGradient id="a" x1="12" x2="12" y1="1" y2="12" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FAFAFA"/>
+<stop offset="1" stop-color="silver"/>
+</linearGradient>
+</defs>
+<g style="stroke-width:.65913843;stroke-dasharray:none" transform="translate(38.386 2.817)scale(.75857)">
+<path d="M-41.984 4.756v2.017h2.836c1.243 1.618 2.624 3.855 2.34 4.305h-4.934v2.065h4.933c.285.45-1.096 2.687-2.34 4.304h-2.835v2.018h3.523c1.842-2.028 2.903-3.8 3.668-5.639.765 1.839 1.826 3.611 3.668 5.639h3.523v-2.018h-2.835c-1.244-1.617-2.625-3.854-2.34-4.304h4.933v-2.065h-4.933c-.285-.45 1.096-2.687 2.34-4.305h2.835V4.756h-3.523c-1.842 2.027-2.903 3.8-3.668 5.639-.765-1.84-1.826-3.612-3.668-5.64z" style="opacity:1;fill:#fff;fill-opacity:1;stroke:#000;stroke-width:.65913843;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:.165098;paint-order:markers fill stroke"/>
+<path d="M-41.984 4.756v2.017h2.836c1.243 1.618 2.624 3.855 2.34 4.305h-4.934v2.065h4.933c.285.45-1.096 2.687-2.34 4.304h-2.835v2.018h3.523c1.842-2.028 2.903-3.8 3.668-5.639.765 1.839 1.826 3.611 3.668 5.639h3.523v-2.018h-2.835c-1.244-1.617-2.625-3.854-2.34-4.304h4.933v-2.065h-4.933c-.285-.45 1.096-2.687 2.34-4.305h2.835V4.756h-3.523c-1.842 2.027-2.903 3.8-3.668 5.639-.765-1.84-1.826-3.612-3.668-5.64z" style="opacity:1;fill:#fff;fill-opacity:1;stroke:#000;stroke-width:.65913843;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:.165098;paint-order:markers fill stroke"/>
+<circle cx="-27.44" cy="5.754" r="1.884" style="opacity:.3;fill:#000;fill-opacity:.788235;stroke:none;stroke-width:.65913843;stroke-linecap:square;paint-order:markers fill stroke;stroke-dasharray:none"/>
+<circle cx="-27.44" cy="5.754" r="1.415" style="opacity:1;fill:#fff;fill-opacity:1;stroke:none;stroke-width:.65913843;stroke-linecap:square;paint-order:markers fill stroke;stroke-dasharray:none"/>
+<circle cx="-27.44" cy="5.754" r=".587" style="opacity:1;fill:url(#c);stroke:none;stroke-width:.65913843;stroke-linecap:square;paint-order:markers fill stroke;stroke-dasharray:none"/>
+<circle cx="-27.44" cy="12.113" r="1.884" style="opacity:.3;fill:#000;fill-opacity:.788235;stroke:none;stroke-width:.65913843;stroke-linecap:square;paint-order:markers fill stroke;stroke-dasharray:none"/>
+<circle cx="-27.44" cy="12.113" r="1.415" style="opacity:1;fill:#fff;fill-opacity:1;stroke:none;stroke-width:.65913843;stroke-linecap:square;paint-order:markers fill stroke;stroke-dasharray:none"/>
+<circle cx="-27.44" cy="12.113" r=".587" style="opacity:1;fill:url(#d);stroke:none;stroke-width:.65913843;stroke-linecap:square;paint-order:markers fill stroke;stroke-dasharray:none"/>
+<circle cx="-27.44" cy="18.457" r="1.884" style="opacity:.3;fill:#000;fill-opacity:.788235;stroke:none;stroke-width:.65913843;stroke-linecap:square;paint-order:markers fill stroke;stroke-dasharray:none"/>
+<circle cx="-27.44" cy="18.457" r="1.415" style="opacity:1;fill:#fff;fill-opacity:1;stroke:none;stroke-width:.65913843;stroke-linecap:square;paint-order:markers fill stroke;stroke-dasharray:none"/>
+<circle cx="-27.44" cy="18.457" r=".587" style="opacity:1;fill:url(#e);stroke:none;stroke-width:.65913843;stroke-linecap:square;paint-order:markers fill stroke;stroke-dasharray:none"/>
+<circle cx="-42.128" cy="5.754" r="1.884" style="opacity:.3;fill:#000;fill-opacity:.788235;stroke:none;stroke-width:.65913843;stroke-linecap:square;paint-order:markers fill stroke;stroke-dasharray:none"/>
+<circle cx="-42.128" cy="5.754" r="1.415" style="opacity:1;fill:#fff;fill-opacity:1;stroke:none;stroke-width:.65913843;stroke-linecap:square;paint-order:markers fill stroke;stroke-dasharray:none"/>
+<circle cx="-42.128" cy="5.754" r=".587" style="opacity:1;fill:url(#f);stroke:none;stroke-width:.65913843;stroke-linecap:square;paint-order:markers fill stroke;stroke-dasharray:none"/>
+<circle cx="-42.128" cy="12.113" r="1.884" style="opacity:.3;fill:#000;fill-opacity:.788235;stroke:none;stroke-width:.65913843;stroke-linecap:square;paint-order:markers fill stroke;stroke-dasharray:none"/>
+<circle cx="-42.128" cy="12.113" r="1.415" style="opacity:1;fill:#fff;fill-opacity:1;stroke:none;stroke-width:.65913843;stroke-linecap:square;paint-order:markers fill stroke;stroke-dasharray:none"/>
+<circle cx="-42.128" cy="12.113" r=".587" style="opacity:1;fill:url(#g);stroke:none;stroke-width:.65913843;stroke-linecap:square;paint-order:markers fill stroke;stroke-dasharray:none"/>
+<circle cx="-42.128" cy="18.457" r="1.884" style="opacity:.3;fill:#000;fill-opacity:.788235;stroke:none;stroke-width:.65913843;stroke-linecap:square;paint-order:markers fill stroke;stroke-dasharray:none"/>
+<circle cx="-42.128" cy="18.457" r="1.415" style="opacity:1;fill:#fff;fill-opacity:1;stroke:none;stroke-width:.65913843;stroke-linecap:square;paint-order:markers fill stroke;stroke-dasharray:none"/>
+<circle cx="-42.128" cy="18.457" r=".587" style="opacity:1;fill:url(#h);stroke:none;stroke-width:.65913843;stroke-linecap:square;paint-order:markers fill stroke;stroke-dasharray:none"/>
+</g>
+</svg>

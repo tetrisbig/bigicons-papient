@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" fill="none">
+<path d="M12 1C2 1 1 6 1 12c0 8 3 11 11 11s11-3 11-11c0-6-1-11-11-11" style="font-variation-settings:normal;display:inline;vector-effect:none;fill:url(#a);fill-opacity:1;stroke-width:1.11627;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000"/>
+<path d="M12 5.5a6.5 6.5 0 0 0-3.293.906l.395.397A5.96 5.96 0 0 1 12 6.043 5.957 5.957 0 0 1 17.957 12a6 6 0 0 1-.507 2.384L15.066 12l-.385.382 2.913 2.913A6.5 6.5 0 0 0 18.5 12 6.5 6.5 0 0 0 12 5.5M6.406 8.705A6.5 6.5 0 0 0 5.5 12a6.5 6.5 0 0 0 6.5 6.5 6.5 6.5 0 0 0 3.295-.906l-.397-.397a5.96 5.96 0 0 1-2.898.76A5.957 5.957 0 0 1 6.043 12a6 6 0 0 1 .51-2.387L8.935 12l.383-.382z" style="fill:url(#b);stroke-width:.999996"/>
+<defs>
+<radialGradient id="c" cx="0" cy="0" r="1" gradientTransform="rotate(90 5.5 6.5)scale(21.99969)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#78BDFF"/>
+<stop offset="1" stop-color="#1A5084"/>
+</radialGradient>
+<radialGradient xlink:href="#c" id="b" cx="0" cy="0" r="1" gradientTransform="rotate(90 6.858 5.142)scale(27.4316)" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#d" id="a" x1="57.159" x2="58.182" y1="115.199" y2="-26.193" gradientTransform="translate(-.222 -.222)scale(.24444)" gradientUnits="userSpaceOnUse"/>
+<linearGradient id="d">
+<stop offset="0" style="stop-color:#d9d9d9;stop-opacity:1"/>
+<stop offset="1" style="stop-color:#fff;stop-opacity:1"/>
+</linearGradient>
+</defs>
+</svg>

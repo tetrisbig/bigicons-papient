@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="24" height="24" style="display:inline" version="1.0">
+<defs>
+<linearGradient xlink:href="#a" id="b" x1="221.276" x2="214.693" y1="-303.447" y2="438.221" gradientUnits="userSpaceOnUse"/>
+<linearGradient id="a">
+<stop offset="0" style="stop-color:#f2f2f2;stop-opacity:1"/>
+<stop offset="1" style="stop-color:#fff;stop-opacity:1"/>
+</linearGradient>
+<linearGradient xlink:href="#a" id="e" x1="221.276" x2="214.693" y1="-303.447" y2="438.221" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#a" id="d" x1="221.276" x2="214.693" y1="-303.447" y2="438.221" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#a" id="c" x1="221.276" x2="214.693" y1="-303.447" y2="438.221" gradientUnits="userSpaceOnUse"/>
+</defs>
+<g style="display:inline">
+<g style="fill:url(#b);fill-opacity:1;stroke-width:21.9899">
+<g style="fill:url(#c);fill-opacity:1;stroke-width:21.9899" transform="translate(1 1)scale(.04929)">
+<g style="fill:url(#d);fill-opacity:1;stroke-width:21.9899">
+<path d="M174.406 2.305q3.65.039 6.973-.93a642 642 0 0 1 87.387.234q39.615 3.084 76.699 17.188 61.646 25.383 84.363 88.043 12.99 37.728 15.34 77.59a567 567 0 0 1-2.324 99.89c-2.782 23.352-8.824 45.805-18.129 67.368q-25.886 56.073-83.899 77.355-47.013 15.885-96.687 16.723-55.869 2.907-110.625-8.36Q32.717 414.955 9.164 314.52a386.3 386.3 0 0 1-9.066-91.528q-1.116-49.248 10.461-97.101C27.02 63.285 66.762 24.488 129.785 9.508a283 283 0 0 1 44.621-7.203" style="fill:url(#e);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:21.9899"/>
+</g>
+</g>
+</g>
+<g style="stroke-width:1.94136">
+<path d="M-24.41-6h17.283v25.238H-24.41z" style="fill:#000;stroke-width:3.6687;stroke-linejoin:round;paint-order:stroke markers fill" transform="translate(22.135 8.59)scale(.5151)"/>
+<path d="M-23.408-4.975h16.281v23.187h-16.281z" style="fill:#115c77;fill-opacity:1;stroke-width:3.6687;stroke-linejoin:round;paint-order:stroke markers fill" transform="translate(22.135 8.59)scale(.5151)"/>
+<path d="M25.315-6h6.908v25.238h-6.908z" style="fill:#000;stroke-width:3.66872;stroke-linejoin:round;paint-order:stroke markers fill" transform="matrix(-.5151 0 0 .5151 22.135 8.59)"/>
+<path d="M26.306-4.975h5.916v23.187h-5.916z" style="fill:#115c77;fill-opacity:1;stroke-width:3.66872;stroke-linejoin:round;paint-order:stroke markers fill" transform="matrix(-.5151 0 0 .5151 22.135 8.59)"/>
+</g>
+</g>
+</svg>

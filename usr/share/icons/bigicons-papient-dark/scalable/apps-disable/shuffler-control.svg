@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 6.35 6.35">
+<defs>
+<radialGradient id="a" cx="0" cy="0" r="1" fx="0" fy="0" gradientTransform="rotate(90 1.455 1.72)scale(5.82072)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+<stop offset="0" style="stop-color:#44dabe;stop-opacity:1"/>
+<stop offset="1" style="stop-color:#24b29d;stop-opacity:1"/>
+</radialGradient>
+</defs>
+<path d="M2.538.295A.3.3 0 0 0 2.63.283Q3.2.246 3.77.285a3.6 3.6 0 0 1 1 .225q.804.33 1.101 1.148.169.492.2 1.011.042.653-.03 1.304a3.2 3.2 0 0 1-.237.878q-.338.731-1.094 1.008a4.1 4.1 0 0 1-1.261.218 5.6 5.6 0 0 1-1.443-.109Q.691 5.677.385 4.366a5 5 0 0 1-.12-1.194 5 5 0 0 1 .137-1.266Q.724.682 1.957.389q.288-.071.581-.094" style="fill:url(#a);fill-rule:evenodd;stroke:none;stroke-width:.352771"/>
+<path fill="#fff" d="m4.498 4.499 2.644.002-.002 2.644-2.644-.002Zm2.91-.001 2.644.002-.002 2.644-2.644-.002ZM4.5 7.406l2.644.002-.002 2.644-2.644-.002Zm2.908.002 5.287.004-.004 5.287-5.287-.004z" style="stroke-width:2.38435" transform="translate(-.43 -.431)scale(.4194)"/>
+</svg>

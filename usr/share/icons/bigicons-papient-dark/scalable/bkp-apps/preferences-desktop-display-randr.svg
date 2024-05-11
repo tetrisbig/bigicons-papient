@@ -1,0 +1,13 @@
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x=".89736" y="1" width="22" height="22" rx="9.106" fill="url(#a)" opacity=".9" stroke="#808080" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline;fill:url(#a)"/>
+ <g transform="matrix(.56946 0 0 .56946 5.736 5.9745)" style="fill:#ffffff">
+  <path d="m3 3c-1.108 0-2 0.892-2 2v9c0 1.108 0.892 2 2 2h6v2h-2.512a0.493 0.493 0 0 0-0.488 0.5c0 0.277 0.217 0.5 0.488 0.5h9.023a0.493 0.493 0 0 0 0.489-0.5c0-0.277-0.217-0.5-0.488-0.5h-2.512v-2h6c1.108 0 2-0.892 2-2v-9c0-1.108-0.892-2-2-2zm0 1h16c0.554 0 1 0.446 1 1v9c0 0.554-0.446 1-1 1h-16c-0.554 0-1-0.446-1-1v-9c0-0.554 0.446-1 1-1m12.5 1a0.5 0.5 0 1 0 0 1h2.5v2.5a0.5 0.5 0 1 0 1 0v-3c0-0.277-0.223-0.5-0.5-0.5zm-12 5c-0.277 0-0.5 0.223-0.5 0.5v3a0.5 0.5 0 0 0 0.5 0.5h3a0.5 0.5 0 1 0 0-1h-2.5v-2.5c0-0.277-0.223-0.5-0.5-0.5m6.5 6h2v2h-2z"/>
+ </g>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="matrix(22 0 0 22 -.10264 0)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#454545" offset=".22865"/>
+   <stop style="stop-color:#575757" offset=".23063"/>
+   <stop style="stop-color:#444444" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

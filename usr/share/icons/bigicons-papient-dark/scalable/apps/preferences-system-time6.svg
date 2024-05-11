@@ -1,0 +1,19 @@
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1.4307" y="2.1239" width="21.138" height="19.752" rx="2.7062" fill="url(#a)" opacity=".9" stroke="#808080" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline;fill:url(#a);stroke-width:.92882"/>
+ <g transform="matrix(.64565 0 0 .64565 4.8979 4.8979)" fill="currentColor" style="fill:#ffffff">
+  <path d="m10.99 1.7607a9.2393 9.2393 0 0 0-9.2291 9.2393 9.2393 9.2393 0 0 0 9.2393 9.2394 9.2393 9.2393 0 0 0 9.2394-9.2394 9.2393 9.2393 0 0 0-9.2394-9.2393z" style="fill:url(#linearGradient6);opacity:.74841;stroke-width:.99921"/>
+  <path class="ColorScheme-Text" d="m11.879 12-7.3101-0.60918 6.0917-0.60918 0.60918-6.0918z" style="fill:#ffffff;stroke-width:1.2174"/>
+  <path class="ColorScheme-Text" transform="matrix(1.0266 0 0 1.0266 -.29254 -.29254)" d="m10.99 2a9 9 0 0 0-8.99 9 9 9 0 0 0 9 9 9 9 0 0 0 9-9 9 9 0 0 0-9-9zm0.01 1a8 8 0 0 1 8 8 8 8 0 0 1-8 8 8 8 0 0 1-8-8 8 8 0 0 1 8-8" style="fill:#c3ffd0"/>
+ </g>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="matrix(22 0 0 22 -.10264 0)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#006c2b" offset=".2327"/>
+   <stop stop-color="#288538" offset=".23452"/>
+   <stop stop-color="#006c34" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient6" x1="2.2376" x2="19.88" y1="1.9414" y2="19.76" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#515151" offset="0"/>
+   <stop style="stop-color:#585858" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

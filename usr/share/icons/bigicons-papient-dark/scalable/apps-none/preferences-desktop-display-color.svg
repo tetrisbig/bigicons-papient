@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="24" height="24" viewBox="0 0 6.35 6.35">
+<defs>
+<linearGradient id="b">
+<stop offset="0" style="stop-color:#fff;stop-opacity:1"/>
+<stop offset="1" style="stop-color:#fff;stop-opacity:0"/>
+</linearGradient>
+<linearGradient id="a">
+<stop offset="0" stop-color="#66bcff"/>
+<stop offset="1" stop-color="#b29aff"/>
+</linearGradient>
+<linearGradient xlink:href="#a" id="c" x1="13.229" x2="2.117" y1="297" y2="280.07" gradientTransform="matrix(1.0714 0 0 1 -.605 0)" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#b" id="i" x1="9.509" x2="9.509" y1="282.608" y2="287.219" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#b" id="j" x1="9.509" x2="9.509" y1="282.608" y2="287.219" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#b" id="k" x1="9.509" x2="9.509" y1="282.608" y2="287.219" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#b" id="l" x1="9.509" x2="9.509" y1="282.608" y2="287.219" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#b" id="m" x1="9.509" x2="9.509" y1="282.608" y2="287.219" gradientUnits="userSpaceOnUse"/>
+<clipPath id="h">
+<rect width="15.875" height="12.171" x=".529" y="282.45" fill="url(#c)" stroke-opacity=".039" stroke-width=".554" paint-order="stroke markers fill" ry=".265"/>
+</clipPath>
+<clipPath id="g">
+<rect width="15.875" height="12.171" x=".529" y="282.45" fill="url(#c)" stroke-opacity=".039" stroke-width=".554" paint-order="stroke markers fill" ry=".265"/>
+</clipPath>
+<clipPath id="f">
+<rect width="15.875" height="12.171" x=".529" y="282.45" fill="url(#c)" stroke-opacity=".039" stroke-width=".554" paint-order="stroke markers fill" ry=".265"/>
+</clipPath>
+<clipPath id="e">
+<rect width="15.875" height="12.171" x=".529" y="282.45" fill="url(#c)" stroke-opacity=".039" stroke-width=".554" paint-order="stroke markers fill" ry=".265"/>
+</clipPath>
+<clipPath id="d">
+<rect width="15.875" height="12.171" x=".529" y="282.45" fill="url(#c)" stroke-opacity=".039" stroke-width=".554" paint-order="stroke markers fill" ry=".265"/>
+</clipPath>
+</defs>
+<path d="M3.44 284.366q-1.707.753-2.29 2.321a6.6 6.6 0 0 0-.362 2.374 6.8 6.8 0 0 0 .315 2.235q.55 1.672 2.337 2.459z" clip-path="url(#d)" style="fill:#9ab9dd;fill-opacity:1" transform="matrix(.37832 0 0 .53367 -.033 -151.09)"/>
+<path d="M6.326 283.704q-.538.05-1.067.14a7.7 7.7 0 0 0-1.82.522v9.389a8 8 0 0 0 1.947.544q.47.069.94.115z" clip-path="url(#e)" style="fill:#9add9c;fill-opacity:1" transform="matrix(.37832 0 0 .53367 -.033 -151.09)"/>
+<path d="M8.543 283.612q-.754-.002-1.507.034a1.2 1.2 0 0 1-.24.023q-.236.013-.47.035v10.71a21 21 0 0 0 2.872.09q.738-.01 1.458-.086V283.7q-.302-.03-.608-.048a32 32 0 0 0-1.505-.039z" clip-path="url(#f)" style="fill:#f3f284;fill-opacity:1" transform="matrix(.37832 0 0 .53367 -.033 -151.09)"/>
+<path d="M10.654 283.7v10.718a15 15 0 0 0 1.879-.323q.545-.142 1.009-.347v-9.368a7 7 0 0 0-.85-.309 13 13 0 0 0-2.038-.372z" clip-path="url(#g)" style="fill:#edb968;fill-opacity:1" transform="matrix(.37832 0 0 .53367 -.033 -151.09)"/>
+<path d="M13.542 284.38v9.368q1.233-.546 1.882-1.542.48-.79.627-1.645a10 10 0 0 0 .08-2.443 5.4 5.4 0 0 0-.528-1.895q-.618-1.203-2.061-1.843" clip-path="url(#h)" style="fill:#ed8e68;fill-opacity:1" transform="matrix(.37832 0 0 .53367 -.033 -151.09)"/>
+<path d="M3.44 284.366q-1.707.753-2.29 2.321a6.6 6.6 0 0 0-.362 2.374 6.8 6.8 0 0 0 .315 2.235q.55 1.672 2.337 2.459z" clip-path="url(#d)" style="fill:url(#i);fill-opacity:1" transform="matrix(.37832 0 0 .53367 -.033 -151.09)"/>
+<path d="M6.326 283.704q-.538.05-1.067.14a7.7 7.7 0 0 0-1.82.522v9.389a8 8 0 0 0 1.947.544q.47.069.94.115z" clip-path="url(#e)" style="fill:url(#j);fill-opacity:1" transform="matrix(.37832 0 0 .53367 -.033 -151.09)"/>
+<path d="M8.543 283.612q-.754-.002-1.507.034a1.2 1.2 0 0 1-.24.023q-.236.013-.47.035v10.71a21 21 0 0 0 2.872.09q.738-.01 1.458-.086V283.7q-.302-.03-.608-.048a32 32 0 0 0-1.505-.039z" clip-path="url(#f)" style="fill:url(#k);fill-opacity:1" transform="matrix(.37832 0 0 .53367 -.033 -151.09)"/>
+<path d="M10.654 283.7v10.718a15 15 0 0 0 1.879-.323q.545-.142 1.009-.347v-9.368a7 7 0 0 0-.85-.309 13 13 0 0 0-2.038-.372z" clip-path="url(#g)" style="fill:url(#l);fill-opacity:1" transform="matrix(.37832 0 0 .53367 -.033 -151.09)"/>
+<path d="M13.542 284.38v9.368q1.233-.546 1.882-1.542.48-.79.627-1.645a10 10 0 0 0 .08-2.443 5.4 5.4 0 0 0-.528-1.895q-.618-1.203-2.061-1.843" clip-path="url(#h)" style="fill:url(#m);fill-opacity:1" transform="matrix(.37832 0 0 .53367 -.033 -151.09)"/>
+<path d="M1.874 5.566a.153.153 0 0 0-.153.153v.17q.135.046.284.079.715.147 1.442.109.608-.01 1.182-.192V5.72a.153.153 0 0 0-.153-.153H1.874z" style="fill:#fff;stroke-width:.0765203;paint-order:stroke markers fill;opacity:.3"/>
+<rect width=".383" height=".383" x="2.027" y="5.337" ry=".038" style="fill:#fff;stroke-width:.289214;paint-order:stroke markers fill"/>
+<rect width=".383" height=".383" x="2.665" y="5.337" ry=".038" style="fill:#fff;stroke-width:.289214;paint-order:stroke markers fill"/>
+<rect width=".383" height=".383" x="3.302" y="5.337" ry=".038" style="fill:#fff;stroke-width:.289214;paint-order:stroke markers fill"/>
+<rect width=".383" height=".383" x="3.94" y="5.337" ry=".038" style="fill:#fff;stroke-width:.289214;paint-order:stroke markers fill"/>
+</svg>

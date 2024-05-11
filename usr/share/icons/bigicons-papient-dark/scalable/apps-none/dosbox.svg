@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="24" height="24" fill="none">
+<defs>
+<radialGradient id="b" cx="0" cy="0" r="1" fx="0" fy="0" gradientTransform="matrix(0 11 -11 0 -22 1)" gradientUnits="userSpaceOnUse" spreadMethod="pad">
+<stop offset="0" style="stop-color:#fff;stop-opacity:1"/>
+<stop offset="1" style="stop-color:#f9f9f9;stop-opacity:1"/>
+</radialGradient>
+<radialGradient xlink:href="#a" id="c" cx="-12" cy="-22" r="7.5" fx="-12" fy="-22" gradientTransform="translate(1.8 3.3)scale(1.15)" gradientUnits="userSpaceOnUse"/>
+<linearGradient id="a">
+<stop offset=".592" style="stop-color:#391f10;stop-opacity:1"/>
+<stop offset="1" style="stop-color:#a05a2c;stop-opacity:1"/>
+</linearGradient>
+</defs>
+<g transform="translate(34)">
+<path d="M-24.407 1.115q.18 0 .344-.047a32 32 0 0 1 4.308.01 13.7 13.7 0 0 1 3.781.849c2.026.833 3.41 2.281 4.162 4.338.42 1.24.676 2.516.754 3.823a28.3 28.3 0 0 1-.114 4.928 12 12 0 0 1-.896 3.317q-1.276 2.766-4.135 3.812a15.6 15.6 0 0 1-4.767.824 21.3 21.3 0 0 1-5.452-.412c-3.308-.734-5.354-2.754-6.125-6.057a19 19 0 0 1-.448-4.51 18.5 18.5 0 0 1 .516-4.787q1.218-4.625 5.875-5.734a14 14 0 0 1 2.197-.354" style="fill:url(#b);fill-rule:evenodd;stroke:none;stroke-width:1.33333"/>
+<rect width="15" height="15" x="-19.5" y="-29.5" fill="#a05a2c" rx="7.5" ry="7.5" style="fill:url(#c);stroke-width:.285689" transform="rotate(-90)"/>
+<path fill="#fff" d="M-26.821 7.714v.477h.482v2.857h-.482v.476h2.41v-.476h.482V8.19h-.482v-.477Zm3.857 0v.477h-.482v2.857h.482v.476h1.928v-.476h.482V8.19h-.482v-.477Zm3.375 0v.477h-.482v.952h.482v.476h.964v.476h.482v.953h-.964v-.953h-.964v.953h.482v.476h1.928v-.476h.482v-.953h-.482V9.62h-.482v-.476h-.964V8.19h.964v.952h.964V8.19h-.482v-.477Zm-5.786.477h.482v2.857h-.482Zm2.893 0h.964v2.857h-.964zm-4.34 4.285v.476h.483v2.858h-.482v.476h2.41v-.476h.482v-1.43h-.482v-.476h.482v-.953h-.482v-.476Zm3.858 0v.476h-.482v2.858h.482v.476h1.928v-.476h.482v-2.858h-.482v-.476Zm2.41 0v.476h.483v.953h.482v.952h-.482v.952h-.483v.477h.965v-.477h.482v-.476h.482v.476h.482v.477h.964v-.477h-.482v-.952h-.482v-.953h.482v-.952h.482v-.476h-.964v.476h-.482v.476h-.482v-.476h-.482v-.476Zm-4.821.476h.482v.953h-.482Zm2.893 0h.964v2.858h-.964zm-2.893 1.429h.482v1.428h-.482Z" style="stroke-width:.285689"/>
+</g>
+</svg>

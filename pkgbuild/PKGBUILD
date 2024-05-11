@@ -1,0 +1,65 @@
+# Maintainer: Barnabé di Kartola <barnabedikartola@gmail.com>
+
+pkgname=bigicons-papient
+pkgdesc="Package icons for biglinux based in Papirus and Fluent"
+depends=('papirus-icon-theme')
+# makedepends=('')
+# conflicts=('')
+pkgver=$(date +%y.%m.%d)
+pkgrel=$(date +%H%M)
+arch=('any')
+license=('GPL3')
+url="https://github.com/biglinux/$pkgname"
+provides=("$pkgname")
+source=("git+${url}.git")
+md5sums=('SKIP')
+if [ -e "${pkgname}.install" ];then
+    install=${pkgname}.install
+elif [ -e "pkgbuild.install" ];then
+    install=pkgbuild.install
+fi
+
+package() {
+    # Verify default folder
+    if [ -d "${srcdir}/${pkgname}/${pkgname}" ]; then
+        InternalDir="${srcdir}/${pkgname}/${pkgname}"
+    else
+        InternalDir="${srcdir}/${pkgname}"
+    fi
+
+    # Copy files
+    if [ -d "${InternalDir}/usr" ]; then
+        cp -r "${InternalDir}/usr" "${pkgdir}/"
+    fi
+
+    if [ -d "${InternalDir}/etc" ]; then
+        cp -r "${InternalDir}/etc" "${pkgdir}/"
+    fi
+
+    if [ -d "${InternalDir}/opt" ]; then
+        cp -r "${InternalDir}/opt" "${pkgdir}/"
+    fi
+    
+    # Generate light theme from dark theme
+    mkdir -p "${pkgdir}/usr/share/icons/bigicons-papient"
+    cd "${pkgdir}/usr/share/icons/bigicons-papient"
+    cp -R ../bigicons-papient-dark/16 .
+    cp -R ../bigicons-papient-dark/22 .
+    cp -R ../bigicons-papient-dark/symbolic .
+    ln -s 16 16@2x
+    ln -s 16 16@3x
+    ln -s 22 22@3x
+    ln -s 22 22@2x
+    ln -s symbolic symbolic16
+    ln -s symbolic symbolic22
+    ln -s ../bigicons-papient-dark/scalable scalable
+    ln -s ../bigicons-papient-dark/scalable scalable@2x
+    ln -s ../bigicons-papient-dark/scalable scalable@3x
+    # Change index.theme
+    cp ../bigicons-papient-dark/index.theme .
+    sed -i 's|breeze-dark|breeze|g;s|bigicons-papient-dark|bigicons-papient-light|g;s|Papirus-Dark|Papirus-Light|g' index.theme
+    # Change color of all icons
+    find 16 -type f -name '*.svg' -exec sed -i 's|#fcfcfc|#232629|g' {} \;
+    find 22 -type f -name '*.svg' -exec sed -i 's|#fcfcfc|#232629|g' {} \;
+    find symbolic -type f -name '*.svg' -exec sed -i 's|#fcfcfc|#232629|g' {} \;
+}

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="24" height="24" fill="none">
+<defs>
+<linearGradient id="a">
+<stop offset="0" style="stop-color:#b3b3b3;stop-opacity:1"/>
+<stop offset="1" style="stop-color:#fff;stop-opacity:1"/>
+</linearGradient>
+<linearGradient xlink:href="#a" id="b" x1="51.534" x2="50.256" y1="92.699" y2="12.926" gradientTransform="translate(-.222 -.222)scale(.24444)" gradientUnits="userSpaceOnUse"/>
+</defs>
+<path d="M12 1C2 1 1 6 1 12c0 8 3 11 11 11s11-3 11-11c0-6-1-11-11-11" style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#b);fill-opacity:1;stroke-width:1.11627;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000;stop-opacity:1"/>
+<g stroke-width=".833" style="paint-order:markers stroke fill" transform="translate(-2.782 -489.493)scale(1.74608)">
+<rect width="1.587" height="1.587" x="7.673" y="283.242" fill="#ff3b53" rx=".265" ry=".265"/>
+<rect width="1.587" height="1.587" x="9.26" y="283.242" fill="#ff3b53" rx=".265" ry=".265"/>
+<rect width="1.587" height="1.587" x="10.848" y="283.242" fill="#ff3b53" rx=".265" ry=".265"/>
+<rect width="1.587" height="1.587" x="10.848" y="284.829" fill="#ff3b53" rx=".265" ry=".265"/>
+<rect width="1.587" height="1.587" x="7.673" y="286.417" fill="#1cbedd" rx=".265" ry=".265"/>
+<rect width="1.587" height="1.587" x="7.673" y="288.004" fill="#1cbedd" rx=".265" ry=".265"/>
+<rect width="1.587" height="1.587" x="9.26" y="288.004" fill="#1cbedd" rx=".265" ry=".265"/>
+<rect width="1.587" height="1.587" x="9.26" y="289.592" fill="#1cbedd" rx=".265" ry=".265"/>
+<rect width="1.587" height="1.587" x="7.673" y="289.592" fill="#f5ab00" rx=".265" ry=".265"/>
+<rect width="1.587" height="1.587" x="6.085" y="289.592" fill="#f5ab00" rx=".265" ry=".265"/>
+<rect width="1.587" height="1.587" x="6.085" y="288.004" fill="#f5ab00" rx=".265" ry=".265"/>
+<rect width="1.587" height="1.587" x="4.498" y="289.592" fill="#f5ab00" rx=".265" ry=".265"/>
+</g>
+</svg>

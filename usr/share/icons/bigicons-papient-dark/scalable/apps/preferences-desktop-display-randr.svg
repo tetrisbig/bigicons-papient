@@ -1,0 +1,12 @@
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="12" y="11" width="24" height="32" rx="2" ry="2" style="opacity:.2"/>
+ <rect x="12" y="10" width="24" height="32" rx="2" ry="2" style="fill:#8e8e8e"/>
+ <rect x="4" y="7" width="40" height="32" rx="2" ry="2" style="opacity:.2"/>
+ <path d="m4 34v2c0 1.108 0.892 2 2 2h36c1.108 0 2-0.892 2-2v-2h-40z" style="fill:#ababab"/>
+ <path d="m6 6c-1.108 0-2 0.892-2 2v26h40v-26c0-1.108-0.892-2-2-2z" style="fill:#515151"/>
+ <path d="m6 6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-36z" style="fill:#ffffff;opacity:.1"/>
+ <g transform="matrix(.98109 0 0 .98109 -19.391 54.965)" style="fill:#dcf4fc">
+  <path d="m54.126-45.103c-1.4493-6.22e-4 -1.4493 2.1724 0 2.173h5.4326v5.4326c-6.22e-4 1.4493 2.1724 1.4493 2.173 0v-6.5191c0-0.60193-0.48458-1.0865-1.0865-1.0865zm-26.076 10.865c-0.60193 0-1.0865 0.48458-1.0865 1.0865v6.5191c0 0.60006 0.48645 1.0865 1.0865 1.0865h6.5191c1.4493 6.22e-4 1.4493-2.1724 0-2.173h-5.4326v-5.4326c0-0.60193-0.48458-1.0865-1.0865-1.0865" style="stroke-width:2.173"/>
+ </g>
+ <rect x="4" y="34" width="40" height="1" style="fill:#ffffff;opacity:.1"/>
+</svg>

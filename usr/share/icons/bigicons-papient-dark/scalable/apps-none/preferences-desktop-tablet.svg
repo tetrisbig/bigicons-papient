@@ -1,0 +1,11 @@
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x=".89736" y="1" width="22" height="22" rx="9.106" fill="url(#a)" opacity=".9" stroke="#808080" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline;fill:url(#a)"/>
+ <path d="m7.2784 7.2828c-0.51714 0-0.94369 0.42655-0.94369 0.94369v7.547c0 0.51714 0.42655 0.94369 0.94369 0.94369h8.8078c0.51777 0 0.94369-0.42655 0.94369-0.94369v-6.3196l0.45863-0.46052a0.64171 0.64171 0 0 0 0.17678-0.45297c0-0.34791-0.28059-0.62913-0.62913-0.62913-0.02139 0-0.04026 0.00944-0.06166 0.011954a0.94369 0.94369 0 0 0-0.88832-0.64045zm0 0.62913h0.94369v1.8849h-1.2583v-1.5703c0-0.17993 0.13526-0.32463 0.31456-0.31456m1.5791 0h7.2287c0.17993 0 0.31456 0.13463 0.31456 0.31456v0.044039l-3.7685 3.7502v0.92419h0.92419l2.8443-2.8594v5.6879c0 0.17993-0.13463 0.31456-0.31456 0.31456h-7.2287zm-1.8937 2.514h1.2583v3.1431h-1.2583zm0 3.7723h1.2583v1.8899h-0.94369a0.30827 0.30827 0 0 1-0.31456-0.31456z" style="fill:#ffffff;stroke-width:.62913"/>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="matrix(22 0 0 22 -.10264 0)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#9a4d0b" offset=".2327"/>
+   <stop style="stop-color:#af5b0c" offset=".23452"/>
+   <stop style="stop-color:#85430b" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

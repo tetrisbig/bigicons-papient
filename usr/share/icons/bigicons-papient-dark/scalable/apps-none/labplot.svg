@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="24" height="24" fill="none">
+<defs>
+<linearGradient id="a">
+<stop offset="0" style="stop-color:#374548;stop-opacity:1"/>
+<stop offset="1" style="stop-color:#9aa4a5;stop-opacity:1"/>
+</linearGradient>
+<linearGradient xlink:href="#a" id="b" x1="50.447" x2="51.17" y1="83.351" y2="-8.673" gradientTransform="translate(-.222 -.222)scale(.24444)" gradientUnits="userSpaceOnUse"/>
+</defs>
+<path d="M12 1C2 1 1 6 1 12c0 8 3 11 11 11s11-3 11-11c0-6-1-11-11-11" style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#b);fill-opacity:1;stroke-width:1.11627;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000;stop-opacity:1"/>
+<g stroke-width=".416">
+<path stroke="#787e82" d="M3.551 12.207c5.496 0 6.663 6.325 9.087 6.345 2.425.018 2.317-6.345 7.81-6.345"/>
+<path stroke="#5090c3" d="M3.551 11.793c5.496 0 6.663-4.34 9.087-4.358 2.425-.017 2.317 4.358 7.81 4.358"/>
+</g>
+<path stroke="#d6d6d6" stroke-width=".416" d="M3.552 11.793c5.495 0 6.662-6.325 9.087-6.345 2.424-.018 2.316 6.345 7.81 6.345"/>
+<g fill="#d6d6d6" color="#000">
+<path d="M3.556 12H20.45v.423H3.556Z"/>
+<path d="M6.508 11.578h.423v1.267h-.423zm5.915 0h.422v1.267h-.422zm5.914 0h.422v1.267h-.422z"/>
+</g>
+</svg>

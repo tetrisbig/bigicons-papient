@@ -1,0 +1,51 @@
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <rect x=".89736" y="1" width="22" height="22" rx="9.106" fill="url(#a)" opacity=".9" stroke="#808080" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline;fill:url(#m)"/>
+ <defs>
+  <linearGradient id="d" x1="25.514" x2="25.514" y1="199.22" y2="211.49" gradientTransform="translate(2.94 -22.32)scale(.14529)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="a">
+   <stop style="stop-color:#9a9996" offset="0"/>
+   <stop style="stop-color:#c0bfbc" offset=".5"/>
+   <stop style="stop-color:#deddda" offset="1"/>
+  </linearGradient>
+  <linearGradient id="e" x1="16" x2="16" y1="121.58" y2="127.08" gradientTransform="matrix(.3736 0 0 .35661 6.152 -30.118)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="f" x1="16" x2="16" y1="121.58" y2="127.08" gradientTransform="matrix(.3736 0 0 .35661 6.152 -33.825)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="g" x1="16" x2="16" y1="121.58" y2="127.08" gradientTransform="matrix(.3736 0 0 .35661 .67 -33.825)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="k" x1="16" x2="16" y1="121.58" y2="127.08" gradientTransform="matrix(2.3377 0 0 2.2314 -11.14 -29.054)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="j" x1="12.5" x2="19.5" y1="113.83" y2="113.83" gradientTransform="matrix(.34266 0 0 .32708 1.165 -26.72)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#c0bfbc" offset="0"/>
+   <stop style="stop-color:#9a9996" offset=".5"/>
+   <stop style="stop-color:#c0bfbc" offset="1"/>
+  </linearGradient>
+  <linearGradient id="m" x1=".05" x2="1" y2="1" gradientTransform="matrix(22 0 0 22 -.10264 0)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#515151" offset="0"/>
+   <stop style="stop-color:#313e40" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(13.415 -29.182)scale(.15981)">
+  <ellipse transform="matrix(6.2574 0 0 6.2574 -83.943 182.6)" cx="6.647" cy="7.515" rx="1.199" ry=".891" style="fill-rule:evenodd;fill:url(#d);paint-order:stroke fill markers"/>
+  <path transform="matrix(6.2574 0 0 6.2574 -83.943 182.6)" d="m12.13 11.54v1.543" style="fill:none;stroke-width:.43586;stroke:#999"/>
+  <ellipse transform="matrix(6.2574 0 0 6.2574 -83.943 182.6)" cx="12.13" cy="14.22" rx="1.598" ry="1.199" style="fill-rule:evenodd;fill:#e01b24;paint-order:stroke fill markers"/>
+  <ellipse transform="matrix(6.2574 0 0 6.2574 -83.943 182.6)" cx="12.13" cy="14.22" rx="1.308" ry=".981" style="fill-rule:evenodd;fill:url(#e);paint-order:stroke fill markers;stroke-linecap:square;stroke-width:1.7573"/>
+  <ellipse transform="matrix(6.2574 0 0 6.2574 -83.943 182.6)" cx="12.13" cy="14.22" rx="1.017" ry=".763" style="fill-rule:evenodd;fill:#3d3846;paint-order:stroke fill markers"/>
+  <ellipse transform="matrix(6.2574 0 0 6.2574 -83.943 182.6)" cx="12.13" cy="10.513" rx="1.598" ry="1.199" style="fill-rule:evenodd;fill:#1c71d8;paint-order:stroke fill markers"/>
+  <ellipse transform="matrix(6.2574 0 0 6.2574 -83.943 182.6)" cx="12.13" cy="10.513" rx="1.308" ry=".981" style="fill-rule:evenodd;fill:url(#f);paint-order:stroke fill markers;stroke-linecap:square;stroke-width:1.7573"/>
+  <path transform="matrix(6.2574 0 0 6.2574 -83.943 182.6)" d="m6.647 13.088v-1.547" fill="none" style="fill-opacity:0;stroke-width:.43586;stroke:#999"/>
+  <ellipse transform="matrix(6.2574 0 0 6.2574 -83.943 182.6)" cx="6.647" cy="10.513" rx="1.598" ry="1.199" style="fill-rule:evenodd;fill:#1c71d8;paint-order:stroke fill markers"/>
+  <ellipse transform="matrix(6.2574 0 0 6.2574 -83.943 182.6)" cx="6.647" cy="10.513" rx="1.308" ry=".981" style="fill-rule:evenodd;fill:url(#g);paint-order:stroke fill markers;stroke-linecap:square;stroke-width:1.7573"/>
+  <ellipse transform="matrix(6.2574 0 0 6.2574 -83.943 182.6)" cx="12.13" cy="10.513" rx="1.017" ry=".763" style="fill-rule:evenodd;fill:#3d3846;paint-order:stroke fill markers"/>
+  <path transform="matrix(6.2574 0 0 6.2574 -83.943 182.6)" d="m17.612 11.54v1.543" style="fill:none;stroke-width:.43586;stroke:#999"/>
+  <ellipse cx="26.263" cy="248.38" rx="10" ry="7.5" style="fill-rule:evenodd;fill:#1c71d8;paint-order:stroke fill markers"/>
+  <ellipse cx="26.263" cy="248.38" rx="8.182" ry="6.136" style="fill-rule:evenodd;fill:url(#k);paint-order:stroke fill markers;stroke-linecap:square;stroke-width:10.996"/>
+  <ellipse cx="26.263" cy="248.38" rx="6.364" ry="4.773" style="fill-rule:evenodd;fill:#3d3846;paint-order:stroke fill markers"/>
+  <ellipse transform="translate(0 23.196)" cx="26.263" cy="248.38" rx="10" ry="7.5" style="fill-rule:evenodd;fill:#e01b24;paint-order:stroke fill markers"/>
+  <ellipse transform="translate(0 23.196)" cx="26.263" cy="248.38" rx="8.182" ry="6.136" style="fill-rule:evenodd;fill:url(#k);paint-order:stroke fill markers;stroke-linecap:square;stroke-width:10.996"/>
+  <ellipse transform="translate(0 23.196)" cx="26.263" cy="248.38" rx="6.364" ry="4.773" style="fill-rule:evenodd;fill:#3d3846;paint-order:stroke fill markers"/>
+  <ellipse transform="translate(-68.613 23.196)" cx="26.263" cy="248.38" rx="10" ry="7.5" style="fill-rule:evenodd;fill:#e01b24;paint-order:stroke fill markers"/>
+  <ellipse transform="translate(-68.613 23.196)" cx="26.263" cy="248.38" rx="8.182" ry="6.136" style="fill-rule:evenodd;fill:url(#k);paint-order:stroke fill markers;stroke-linecap:square;stroke-width:10.996"/>
+  <ellipse transform="translate(-68.613 23.196)" cx="26.263" cy="248.38" rx="6.364" ry="4.773" style="fill-rule:evenodd;fill:#3d3846;paint-order:stroke fill markers"/>
+  <path transform="matrix(6.2574 0 0 6.2574 -83.943 182.6)" d="M5.448 7.515v2.998a1.2.9 0 0 0 1.2.9 1.2.9 0 0 0 1.198-.899v-3c-.19.378-.667.892-1.199.892s-1.008-.514-1.199-.891" style="fill-rule:evenodd;fill:url(#j);paint-order:stroke fill markers"/>
+  <ellipse transform="matrix(6.2574 0 0 6.2574 -83.943 182.6)" cx="6.647" cy="7.515" rx="1.199" ry=".891" style="fill-rule:evenodd;fill:#c0bfbc;paint-order:stroke fill markers"/>
+  <ellipse transform="matrix(6.2574 0 0 6.2574 -83.943 182.6)" cx="6.647" cy="7.515" rx=".685" ry=".514" style="fill-rule:evenodd;fill:#1a5fb4;paint-order:normal"/>
+  <path transform="matrix(6.2574 0 0 6.2574 -83.943 182.6)" d="M6.647 7.515c0-1.028.17-3.14-1.494-3.174-1.334-.028-1.87-.504-1.87-.504" style="fill:none;paint-order:normal;stroke-width:1.3706;stroke:#1a5fb4"/>
+ </g>
+</svg>

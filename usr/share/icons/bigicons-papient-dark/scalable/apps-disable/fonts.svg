@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="24" height="24" fill="none">
+<defs>
+<linearGradient id="b">
+<stop offset=".609" style="stop-color:#4d4d4d;stop-opacity:1"/>
+<stop offset=".909" style="stop-color:#4d4d4d;stop-opacity:0"/>
+</linearGradient>
+<linearGradient id="a">
+<stop offset="0" style="stop-color:#4d4d4d;stop-opacity:1"/>
+<stop offset="1" style="stop-color:#f9f9f9;stop-opacity:1"/>
+</linearGradient>
+<linearGradient xlink:href="#a" id="c" x1="85.521" x2=".367" y1="89.498" y2="-.176" gradientTransform="translate(-.222 -.222)scale(.24444)" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#b" id="d" x1="19.658" x2="33.451" y1="11.998" y2="11.998" gradientTransform="translate(-14.54)" gradientUnits="userSpaceOnUse"/>
+</defs>
+<path d="M12 1C2 1 1 6 1 12c0 8 3 11 11 11s11-3 11-11c0-6-1-11-11-11" style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#c);fill-opacity:1;stroke-width:1.11627;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000;stop-opacity:1"/>
+<rect width="13.793" height="13.793" x="5.118" y="5.102" rx="1.701" ry="1.701" style="opacity:.3;fill:url(#d);stroke-width:.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:.8062,.8062;stroke-dashoffset:.945179;paint-order:markers fill stroke"/>
+<path fill="#fff" d="M15.435 15.299c.56 0 1.07-.292 1.504-.652h.024l.068.544h.626V12.4c0-1.12-.468-1.863-1.57-1.863-.727 0-1.37.325-1.789.592l.301.527c.36-.242.836-.485 1.363-.485.743 0 .935.56.935 1.145-1.93.218-2.79.71-2.79 1.697 0 .818.567 1.286 1.328 1.286m.217-.61c-.45 0-.802-.208-.802-.727 0-.585.518-.96 2.047-1.145v1.27c-.442.394-.803.601-1.245.601z" aria-label="a" style="stroke-width:.16553;paint-order:stroke fill markers"/>
+<path fill="#fff" d="m9.327 12.374.354-1.1a59 59 0 0 0 .716-2.436h.04c.236.835.461 1.62.726 2.437l.344 1.1zM12.42 15.3h.962l-2.444-7.196H9.926L7.48 15.299h.924l.697-2.198h2.63z" aria-label="A" style="stroke-width:.16553;paint-order:stroke fill markers"/>
+</svg>

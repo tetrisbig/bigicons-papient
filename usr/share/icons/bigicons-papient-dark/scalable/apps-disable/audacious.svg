@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" width="24" height="24" fill="none">
+<defs>
+<linearGradient id="a">
+<stop offset="0" style="stop-color:#999;stop-opacity:1"/>
+<stop offset="1" style="stop-color:#f9f9f9;stop-opacity:1"/>
+</linearGradient>
+<linearGradient xlink:href="#a" id="b" x1="12.625" x2="11.938" y1="48.813" y2="-12.375" gradientUnits="userSpaceOnUse"/>
+<linearGradient xlink:href="#a" id="c" x1="12.625" x2="11.938" y1="48.813" y2="-12.375" gradientUnits="userSpaceOnUse"/>
+<clipPath id="d">
+<circle cx="8.467" cy="288.53" r="6.879" fill="#d86eb0" stroke-opacity=".039" stroke-width=".491" style="paint-order:stroke markers fill"/>
+</clipPath>
+</defs>
+<g style="display:inline;fill:url(#b);fill-opacity:1">
+<path d="M50 5C9.09 5 5 25.455 5 50c0 32.727 12.273 45 45 45s45-12.273 45-45c0-24.545-4.09-45-45-45" style="font-variation-settings:normal;display:inline;opacity:1;vector-effect:none;fill:url(#c);fill-opacity:1;stroke-width:4.56656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000;stop-opacity:1" transform="translate(-1 -1)scale(.26)"/>
+</g>
+<path d="M12.003 6.965c-1.048.046-2.908.009-3.63.862-.443.521-.236 1.735.44 1.861.844.157 2.268-.234 3.182-.138.637.067.831.58.313.936-.55.377-1.798.268-2.428.458-2.177.654-2.957 2.035-2.424 3.913.348 1.224 1.57 2.133 2.913 2.184 2.582-.005 2.107-1.308 3.357-.63.412.475 1.24.632 1.67.298.69-.536 1.726-.827.991-1.925-.352-.526.476-1.203.291-3.82-.175-2.475-1.854-4.121-4.675-3.999m.175 5.606c.582 0 1.045.408 1.045.915s-.463.915-1.045.915-1.056-.408-1.056-.915.475-.915 1.056-.915" style="fill:#333;fill-opacity:1;stroke:none;stroke-width:1"/>
+<g stroke="#fff" stroke-opacity=".937" stroke-width=".122" clip-path="url(#d)" transform="translate(-1.508 -448.585)scale(1.59539)">
+<path d="M1.485 287.74c.72.155 1.391.625 1.983 1.98.674 1.545 1.623 2.23 2.772 2.284 1.48.07 2.673-1.226 3.459-2.385 1.602-2.362 4.519-2.136 5.816-1.251" opacity=".35" style="stroke-width:.12163"/>
+<path d="M1.493 288.13c.894-.35 2.083-.424 2.872.827.722 1.143 1.576 2.867 4.049 2.709 1.478-.095 2.956-.71 3.718-2.15.53-.933 1.26-1.872 2.293-2.104.382-.081.655-.07.976.057" opacity=".35" style="stroke-width:.12163"/>
+<path d="M1.775 290.25c.947-.444 2.745-.953 4.197-.53 1.297.38 2.937 1.847 6.056 1.504.824-.09 1.522-.563 2.183-1.464.478-.652.75-1.02 1.306-1.167" opacity=".35" style="stroke-width:.12163"/>
+</g>
+</svg>

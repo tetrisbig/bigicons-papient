@@ -1,0 +1,16 @@
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x=".89736" y="1" width="22" height="22" rx="9.106" fill="url(#a)" opacity=".9" stroke="#808080" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline;fill:url(#a)"/>
+ <g transform="matrix(.31023 0 0 .38086 -114.75 -179.65)" style="mix-blend-mode:normal">
+  <path d="m396.2 489.8h24.738c2.0116 0 3.6269 1.6194 3.631 3.631l0.0727 35.552c2e-3 0.76991-0.0956 2.0758-2.6674 2.204-5.1391 1.3727-24.148 1.0203-26.414 0.10903-2.9497-0.0752-2.991-0.97755-2.991-3.6892v-34.176c0-2.0116 1.6194-3.631 3.631-3.631z" style="fill:#35373a;opacity:.3567"/>
+  <path d="m395.48 491.7h26.185c0.50277 0 0.90752 0.73569 0.90752 1.6496v36.312c0 0.91386-0.40899 1.5771-0.90752 1.6496-12.134 1.7632-20.175 0.71111-26.185 0-0.49994-0.0592-0.90751-0.73569-0.90751-1.6496v-36.312c0-0.91386 0.40475-1.6496 0.90751-1.6496z" style="fill:#ffffff;opacity:.3567;stroke-width:1.0547"/>
+  <rect x="404.08" y="492.72" width="8.9719" height="2" rx=".74766" ry="1" fill="#212324" style="opacity:.3567;stroke-width:.86467"/>
+ </g>
+ <text x="12.006886" y="15" style="fill:#fafafa;font-family:Lato;font-size:10.82px;font-weight:bold;stroke-width:.90162;text-anchor:middle"><tspan font-size="4.5081px" style="stroke-width:.90162">iOS</tspan></text>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="matrix(22 0 0 22 -.10264 0)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#455A64" offset=".2327"/>
+   <stop stop-color="#5a7582" offset=".23452"/>
+   <stop stop-color="#455A64" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

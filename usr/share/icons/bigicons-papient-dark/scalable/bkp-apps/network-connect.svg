@@ -1,0 +1,13 @@
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x=".89736" y="1" width="22" height="22" rx="9.106" fill="url(#a)" opacity=".9" stroke="#808080" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline;fill:url(#a)"/>
+ <g transform="matrix(.71966 0 0 .71966 4.0838 4.0838)" style="fill-opacity:.90196;fill:#ffffff">
+  <path class="ColorScheme-Text" d="m18.293 3-3.5 3.5-1.5-1.5-7.293 7.293 1.5 1.5-4.5 4.5 0.707 0.707 4.5-4.5 1.5 1.5 7.293-7.293-1.5-1.5 3.5-3.5z"/>
+ </g>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="matrix(22 0 0 22 -.10264 0)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#4d506d" offset=".2327"/>
+   <stop style="stop-color:#5f6386" offset=".23452"/>
+   <stop style="stop-color:#4d506d" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

@@ -1,0 +1,26 @@
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <path d="m8.8215 2.1886c-3.8168 0.69275-6.6954 4.0158-6.6954 8.0384v3.4012c0 4.5283 3.6468 8.1734 8.1751 8.1734h3.3994c4.5283 0 8.1734-3.6451 8.1734-8.1734v-3.4012c0-4.0226-2.8769-7.3456-6.6937-8.0384-2.6732-0.43537-4.4339-0.20252-6.3588 0z" style="fill:url(#a);paint-order:markers fill stroke;stroke-linecap:round;stroke-linejoin:bevel;stroke-width:1.02;stroke:url(#radialGradient17)"/>
+ <defs>
+  <linearGradient id="linearGradient4340" x2="0" y1="20" y2="11" gradientTransform="matrix(1.0699 0 0 1.0699 382.92 515.15)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#dae9ff" offset="0"/>
+   <stop style="stop-color:#ffffff" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient17" cx="12" cy="11.872" r="10.384" gradientTransform="matrix(.99954 .030313 -.028571 .9421 .34472 .32362)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#d0d0d0" offset="0"/>
+   <stop style="stop-color:#2c3953" offset="1"/>
+  </radialGradient>
+ </defs>
+ <g transform="matrix(.73166 0 0 .73166 -281.08 -377.04)">
+  <path d="m399.5 533.33c-0.88637 0-1.6049 0.71852-1.6049 1.6049 0 0.88635 0.71852 1.6049 1.6049 1.6049s1.6049-0.71854 1.6049-1.6049c0-0.88637-0.71852-1.6049-1.6049-1.6049zm-2.6748-3.2098c-0.5909 0-1.0699 0.47904-1.0699 1.0699 0 0.59089 0.47904 1.0699 1.0699 1.0699 0.59089 0 1.0699-0.47904 1.0699-1.0699 0-0.5909-0.47904-1.0699-1.0699-1.0699zm5.3496-3.2098-1.0699 1.0699 2.1399 2.1398-2.1399 2.1399 1.0699 1.0699 3.2098-3.2098-1.0699-1.0699zm-3.7448 0c-0.29544 0-0.53496 0.23952-0.53496 0.53496 0 0.29546 0.23952 0.53498 0.53496 0.53498 0.29545 0 0.53497-0.23952 0.53497-0.53498 0-0.29544-0.23952-0.53496-0.53497-0.53496z" style="fill:url(#linearGradient4340);stroke-width:1.0699"/>
+  <ellipse cx="400.57" cy="520.8" rx=".2445" ry=".27923" style="fill-opacity:.9;fill:#000000;opacity:.8;paint-order:fill markers stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:.95673;stroke:#1079a8"/>
+ </g>
+ <defs>
+  <linearGradient id="a" x1=".56044" x2=".56044" y1=".047271" y2="1.0507" gradientTransform="matrix(19.748 0 0 19.748 1.2292 1.156)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4d6fcd" style="stop-color:#013a62" offset=".13785"/>
+   <stop stop-color="#4d6fcd" style="stop-color:#136d9c" offset=".13894"/>
+   <stop stop-color="#4d6fcd" style="stop-color:#25677a" offset=".83056"/>
+   <stop stop-color="#334988" style="stop-color:#013056" offset=".83056"/>
+  </linearGradient>
+ </defs>
+ <rect x="9.3351" y="19.811" width="5.3298" height=".63522" rx="27.542" ry="0" style="-inkscape-stroke:hairline;fill:#ffffff;opacity:.7;paint-order:markers fill stroke;vector-effect:non-scaling-stroke"/>
+</svg>

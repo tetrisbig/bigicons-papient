@@ -1,0 +1,11 @@
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity=".9" stroke="gray" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline"/>
+ <path class="ColorScheme-Text" d="m12 6.5807c-2.9969 0-5.4193 2.4224-5.4193 5.4193 0 2.9969 2.4224 5.4193 5.4193 5.4193 2.9969 0 5.4193-2.4224 5.4193-5.4193 0-2.9969-2.4224-5.4193-5.4193-5.4193m0 0.67741c2.6216 0 4.7419 2.1203 4.7419 4.7419 0 2.6216-2.1203 4.7419-4.7419 4.7419-2.6216 0-4.7419-2.1203-4.7419-4.7419 0-2.6216 2.1203-4.7419 4.7419-4.7419m0 1.3548a0.67741 0.67741 0 0 0-0.67741 0.67741 0.67741 0.67741 0 0 0 0.67741 0.67741 0.67741 0.67741 0 0 0 0.67741-0.67741 0.67741 0.67741 0 0 0-0.67741-0.67741m-3.387 2.0322v0.67741h2.7096v0.67741l-0.87724 3.2719 0.65505 0.17477 0.74244-2.7692h0.31432l0.74244 2.7692 0.65505-0.17477-0.87724-3.2719v-0.67741h2.7096v-0.67741z" style="fill:#fcfcfc;stroke-width:.67741"/>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0f00e7" offset=".2"/>
+   <stop stop-color="#2654ec" offset=".205"/>
+   <stop stop-color="#0d0099" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

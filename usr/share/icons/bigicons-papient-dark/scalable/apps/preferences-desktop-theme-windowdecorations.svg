@@ -1,0 +1,9 @@
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(1.3043 0 0 1.2268 -2.3471 -1.4949)">
+  <path d="m6 3c-1.662 0-3 1.338-3 3v10c0 1.662 1.338 3 3 3h10c1.662 0 3-1.338 3-3v-10c0-1.662-1.338-3-3-3z" style="fill:#e4e4e4"/>
+  <path class="ColorScheme-Text" d="m6 3c-1.662 0-3 1.338-3 3v10c0 1.662 1.338 3 3 3h10c1.662 0 3-1.338 3-3v-10c0-1.662-1.338-3-3-3zm0 3h10c1.108 0 2 0.892 2 2v8c0 1.108-0.892 2-2 2h-10c-1.108 0-2-0.892-2-2v-8c0-1.108 0.892-2 2-2" fill="currentColor" style="fill:#2488d5"/>
+  <rect x="14.373" y="4.0564" width="1.4662" height="1.1871" rx=".10778" ry=".10739" style="fill:#000000;paint-order:markers fill stroke;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:.2;stroke-width:.90307"/>
+  <rect x="12.309" y="4.8945" width="1.4689" height=".31991" rx=".11167" ry="0" style="fill:#000000;paint-order:markers fill stroke;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:.2;stroke-width:.70647"/>
+  <path d="m16.956 4.8037-0.27121 0.41857s-0.21415 0.094579-0.21415-0.15965l0.31772-0.43723-0.2857-0.41437s0.0084-0.25862 0.20668-0.14409l0.24666 0.378 0.2456-0.378s0.17372-0.11239 0.23619 0.12074l-0.31308 0.4345 0.3093 0.43649s0.01844 0.22453-0.20894 0.1636z" style="fill:#000000;paint-order:markers fill stroke;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:.2;stroke-width:.11044" aria-label="x"/>
+ </g>
+</svg>
