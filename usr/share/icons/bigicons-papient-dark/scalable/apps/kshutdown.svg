@@ -1,5 +1,5 @@
 <svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect x="1.4307" y="2.1239" width="21.138" height="19.752" rx="2.7062" fill="url(#a)" opacity=".9" stroke="#808080" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline;fill:url(#a);stroke-width:.92882"/>
+ <rect x="1.4307" y="2.1239" width="21.138" height="19.752" rx="12" fill="url(#a)" opacity="1" stroke="#808080" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline;fill:url(#a);stroke-width:.92882"/>
  <defs>
   <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="matrix(22 0 0 22 -.10264 0)" gradientUnits="userSpaceOnUse">
    <stop stop-color="#536d78" offset="0"/>
