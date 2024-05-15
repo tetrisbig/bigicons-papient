@@ -57,7 +57,7 @@ package() {
     ln -s ../bigicons-papient-dark/scalable scalable@3x
     # Change index.theme
     cp ../bigicons-papient-dark/index.theme .
-    sed -i 's|breeze-dark|breeze|g;s|bigicons-papient-dark|bigicons-papient-light|g;s|Papirus-Dark|Papirus-Light|g' index.theme
+    sed -i 's|breeze-dark|breeze|g;s|bigicons-papient-dark|bigicons-papient|g;s|Papirus-Dark|Papirus-Light|g' index.theme
     # Change color of all icons
     find 16 -type f -name '*.svg' -exec sed -i 's|#fcfcfc|#232629|g' {} \;
     find 22 -type f -name '*.svg' -exec sed -i 's|#fcfcfc|#232629|g' {} \;
