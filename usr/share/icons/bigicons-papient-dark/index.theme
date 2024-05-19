@@ -292,7 +292,9 @@ Type=Fixed
 [symbolic/status]
 Context=Status
 Size=24
-Type=Fixed
+MinSize=22
+MaxSize=36
+Type=Scalable
 
 # 16x16@2x
 [16@2x/actions]
