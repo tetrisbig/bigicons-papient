@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=bigicons-papirus-dark
 Comment=Big icons with Papirus icon theme for bright themes
-Inherits=breeze,hicolor,Adwaita
+Inherits=breeze-dark,hicolor,Adwaita
 
 Example=folder
 
