@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="32" height="32" version="1.1">
-<defs id="defs3051">
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#fcfcfc}
-</style>
-</defs>
-<g id="apport" transform="translate(-22)">
-<path id="path12" d="M29 8v2h2V8Zm2 2v3h3v-3zm3 0h2V8h-2zm0 3v2h2v-2zm-3 0h-2v2h2zm9-5v2h2V8Zm2 2v3h3v-3zm3 0h2V8h-2zm0 3v2h2v-2zm-3 0h-2v2h2zm-8 5v2h8v-2zm8 2v2h2v-2zm2 2v2h2v-2Zm-10-2h-2v2h2zm-2 2h-2v2h2z" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none"/>
-<path id="path14" d="M22 0v32h32V0Z" style="fill:none"/>
-<path id="rect410" d="M30 4c-2.216 0-4 1.784-4 4v16c0 2.216 1.784 4 4 4h16c2.216 0 4-1.784 4-4V8c0-2.216-1.784-4-4-4Zm0 1h16c1.662 0 3 1.338 3 3v16c0 1.662-1.338 3-3 3H30c-1.662 0-3-1.338-3-3V8c0-1.662 1.338-3 3-3" class="ColorScheme-Text" style="fill:currentColor;fill-opacity:1;stroke:none"/>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="22" height="22">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#dedede;
+      }
+      </style>
+    <g id="22-22-apport" transform="translate(0,-10)">
+    <path id="path7" class="ColorScheme-Text" d="M 3 13 L 3 29 L 4 29 L 19 29 L 19 28 L 19 13 L 18 13 L 4 13 L 3 13 z M 4 14 L 18 14 L 18 28 L 4 28 L 4 14 z M 5 15 L 5 16 L 6 16 L 6 15 L 5 15 z M 6 16 L 6 18 L 8 18 L 8 16 L 6 16 z M 8 16 L 9 16 L 9 15 L 8 15 L 8 16 z M 8 18 L 8 19 L 9 19 L 9 18 L 8 18 z M 6 18 L 5 18 L 5 19 L 6 19 L 6 18 z M 13 15 L 13 16 L 14 16 L 14 15 L 13 15 z M 14 16 L 14 18 L 16 18 L 16 16 L 14 16 z M 16 16 L 17 16 L 17 15 L 16 15 L 16 16 z M 16 18 L 16 19 L 17 19 L 17 18 L 16 18 z M 14 18 L 13 18 L 13 19 L 14 19 L 14 18 z M 9 21 L 9 23 L 13 23 L 13 21 L 9 21 z M 13 23 L 13 25 L 15 25 L 15 23 L 13 23 z M 15 25 L 15 27 L 17 27 L 17 25 L 15 25 z M 9 23 L 7 23 L 7 25 L 9 25 L 9 23 z M 7 25 L 5 25 L 5 27 L 7 27 L 7 25 z " style="fill:currentColor;fill-opacity:1;stroke:none"/>
+    <path id="path9" d="M 0 10 L 0 32 L 22 32 L 22 10 L 0 10 z " style="opacity:1;fill:none"/>
+  </g>
 </svg>

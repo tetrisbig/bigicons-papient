@@ -1,21 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg89" width="32" height="32" version="1.1">
-<defs id="defs5">
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#fcfcfc}.ColorScheme-NegativeText{color:#da4453}
-</style>
-</defs>
-<g id="touchpad_disabled" transform="translate(0 65)">
-<path id="path43" fill="#ff3232" d="M7-55.293 10.293-52 7-48.707c.013.025.707.707.707.707L11-51.293 14.293-48l.707-.707L11.707-52 15-55.293 14.293-56 11-52.707 7.707-56Z" class="ColorScheme-NegativeText"/>
-<path id="path45" fill="none" d="M0-65v32h32v-32z"/>
-<g id="g61" fill="currentColor" class="ColorScheme-Text" transform="translate(0 -65)">
-<g id="g57" transform="translate(-44 1)">
-<path id="path47" d="M74 17h-1v6c0 2.216-1.784 4-4 4h-3c-2.216 0-4-1.784-4-4v-6h-1v6c0 2.77 2.23 5 5 5h3c2.77 0 5-2.23 5-5z" opacity=".5"/>
-<path id="path49" d="M64.5 9c-.831 0-1.5.669-1.5 1.5V17h1v-7h1v7h1v-6.5c0-.831-.669-1.5-1.5-1.5" opacity=".5"/>
-<rect id="rect51" width="2" height="1" x="61" y="16" opacity=".5" ry="0"/>
-<rect id="rect53" width="1" height="4" x="63" y="17" opacity=".5" ry="0"/>
-<rect id="rect55" width="8" height="1" x="66" y="16" opacity=".5" ry="0"/>
-</g>
-<path id="path59" d="M4 5c-.554 0-1 .446-1 1v16c0 .554.446 1 1 1h13v-1H4V6h22v11h1V6c0-.554-.446-1-1-1Z" opacity=".5"/>
-</g>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" width="22" height="22">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#dedede;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#dedede;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }
+      </style>
+    <g id="22-22-touchpad_disabled" inkscape:label="#22-22-touchpad_disabled" transform="translate(0,-10)">
+    <path id="path17" class="ColorScheme-Text" d="m 4,13 c -0.554,0 -1,0.446 -1,1 l 0,14 c 0,0.554 0.446,1 1,1 l 14,0 c 0.554,0 1,-0.446 1,-1 l 0,-14 c 0,-0.554 -0.446,-1 -1,-1 L 4,13 Z m 0,1 14,0 0,11 -14,0 0,-11 z m 0,12 6,0 0,2 -6,0 0,-2 z m 8,0 6,0 0,2 -6,0 0,-2 z" style="fill:currentColor;fill-opacity:0.6;stroke:none"/>
+    <path id="path19" d="M 0 10 L 0 32 L 22 32 L 22 10 L 0 10 z " style="opacity:1;fill:none"/>
+    <path id="path21" class="ColorScheme-NegativeText" d="M 8.8476562,17 8,17.847656 10.152344,20 8,22.152344 8.8476562,23 11,20.847656 13.152344,23 14,22.152344 11.847656,20 14,17.847656 13.152344,17 11,19.152344 8.8476562,17 Z" style="fill:currentColor;fill-opacity:1;stroke:none"/>
+  </g>
 </svg>

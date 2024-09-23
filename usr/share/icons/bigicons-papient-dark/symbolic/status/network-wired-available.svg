@@ -1,16 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg4153" width="22" height="22" version="1.1">
-<defs id="defs4157">
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#fcfcfc}
-</style>
-</defs>
-<g id="network-wired-available" transform="translate(202 10)">
-<path id="rect15578" d="M-202-10h22v22h-22z" style="fill:none;fill-opacity:1;stroke:none"/>
-<g id="g15598" transform="translate(-25 1)">
-<path id="path15580" fill="currentColor" d="M-17 5c-1.108 0-2 .892-2 2v8c0 1.108.892 2 2 2h3v2h-1.5a.499.499 0 1 0 0 1h8a.499.499 0 1 0 0-1H-8v-2h.5a.499.499 0 1 0 0-1H-17c-.554 0-1-.446-1-1V7c0-.554.446-1 1-1h7.5a.499.499 0 1 0 0-1h-3zm4 12h4v2h-4z" class="ColorScheme-Text" transform="translate(-155 -11)"/>
-<path id="path15588" d="M-162-7c-.554 0-1 .446-1 1v5c0 .554.446 1 1 1h3c.554 0 1-.446 1-1v-5c0-.554-.446-1-1-1zm0 1h3v5h-3z" style="fill:#3278ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"/>
-<rect id="rect15590" width="1" height="10" x="-161" y="-1" ry=".556" style="fill:#3278ff;fill-opacity:1;stroke:none;stroke-width:2.10819;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"/>
-<path id="rect15592" d="M-162-5h3v1h-3z" style="fill:#3278ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"/>
-</g>
-</g>
+<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#dedede;
+      }
+      .ColorScheme-Highlight {
+        color:#3498db;
+      }</style>
+ <path class="ColorScheme-Text" d="m5 4c-1.108 0-2 0.892-2 2v8c0 1.108 0.892 2 2 2h3v2h-1.5c-0.277 0-0.5 0.223-0.5 0.5s0.223 0.5 0.5 0.5h8c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5h-0.5v-2h0.5c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5h-9.5c-0.554 0-1-0.446-1-1v-8c0-0.554 0.446-1 1-1h7.5c0.277 0 0.5-0.223 0.5-0.5s-0.223-0.5-0.5-0.5h-3zm4 12h4v2h-4z" fill="currentColor"/>
+ <path class="ColorScheme-Highlight" d="m15 3c-0.554 0-1 0.446-1 1v5c0 0.554 0.446 1 1 1h1v8.4453c0 0.30778 0.223 0.55469 0.5 0.55469s0.5-0.24691 0.5-0.55469v-8.4453h1c0.554 0 1-0.446 1-1v-5c0-0.554-0.446-1-1-1h-3zm0 1h3v1h-3v-1zm0 2h3v3h-3v-3z" fill="currentColor"/>
 </svg>

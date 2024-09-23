@@ -1,12 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="svg372" width="22" height="22" version="1.1">
-<defs id="defs3">
-<style id="current-color-scheme" type="text/css">
-.ColorScheme-Text{color:#fcfcfc}
-</style>
-</defs>
-<g id="22-22-input-keyboard-virtual-on" transform="translate(0 -26)">
-<path id="rect2572" fill="none" d="M0 26h22v22H0z"/>
-<path id="path2574" fill="currentColor" d="M5 31c-1.662 0-3 1.338-3 3v7c0 1.662 1.338 3 3 3h9.547a4 4 0 0 1-.412-1H5c-1.108 0-2-.892-2-2v-7c0-1.108.892-2 2-2h12c1.108 0 2 .892 2 2v4.127a4 4 0 0 1 1 .41V34c0-1.662-1.338-3-3-3zm.475 3a.5.5 0 0 0 .025 1h1a.499.499 0 1 0 0-1zm3 0a.5.5 0 0 0 .025 1h1a.499.499 0 1 0 0-1zm4 0a.5.5 0 0 0 .025 1h1a.499.499 0 1 0 0-1zm3 0a.5.5 0 0 0 .025 1h1a.499.499 0 1 0 0-1zm-10 3a.5.5 0 0 0 .025 1h1a.499.499 0 1 0 0-1zm3 0a.5.5 0 0 0 .025 1h1a.499.499 0 1 0 0-1zm4 0a.5.5 0 0 0 .025 1h1a.499.499 0 1 0 0-1zm3 0a.5.5 0 0 0 .025 1h1a.499.499 0 1 0 0-1zM6.5 40a.5.5 0 0 0 0 1h7.635a4 4 0 0 1 .412-1z" class="ColorScheme-Text"/>
-<circle id="path2602" cx="18" cy="42" r="3" style="fill:#11d116;fill-opacity:1"/>
-</g>
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#dedede;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#dedede;
+      }</style>
+ <path d="m19.5 13a2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-2.5-2.5z" fill="#11d116"/>
+ <path class="ColorScheme-Text" d="m3 4c-1.662 0-3 1.338-3 3v8c0 1.662 1.338 3 3 3h14.062a3.5 3.5 0 0 1-0.7207-1h-13.342c-1.108 0-2-0.892-2-2v-8c0-1.108 0.892-2 2-2h16c1.108 0 2 0.892 2 2v5.3379a3.5 3.5 0 0 1 1 0.71484v-6.0527c0-1.662-1.338-3-3-3h-16zm0 3v2h3v-2h-3zm4 0v2h2v-2h-2zm3 0v2h2v-2h-2zm3 0v2h2v-2h-2zm3 0v2h3v-2h-3zm-13 3v2h4v-2h-4zm5 0v2h2v-2h-2zm3 0v2h2v-2h-2zm3 0v2h5v-2h-5zm-11 3v2h2v-2h-2zm3 0v2h10v-2h-10zm11 0v0.0625a3.5 3.5 0 0 1 0.0625-0.0625h-0.0625z" fill="currentColor"/>
 </svg>
