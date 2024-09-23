@@ -5,7 +5,6 @@ Inherits=Papirus-Dark,breeze-dark,hicolor
 Example=folder
 
 # KDE/Plasma Stuff
-
 FollowsColorScheme=true
 KDE-Extensions=.svg
 DesktopDefault=48
@@ -37,6 +36,11 @@ Type=Fixed
 
 [16/devices]
 Context=Devices
+Size=16
+Type=Fixed
+
+[16/emblems]
+Context=Emblems
 Size=16
 Type=Fixed
 
@@ -144,8 +148,68 @@ MaxSize=512
 Type=Scalable
 
 # Symbolic
+[symbolic/actions]
+Context=Actions
+Size=16
+Type=Fixed
+
+[symbolic/animations]
+Context=Animations
+Size=16
+Type=Fixed
+
+[symbolic/apps]
+Context=Applications
+Size=16
+Type=Fixed
+
+[symbolic/categories]
+Context=Categories
+Size=16
+Type=Fixed
+
+[symbolic/devices]
+Context=Devices
+Size=16
+Type=Fixed
+
+[symbolic/emblems]
+Context=Emblems
+Size=16
+Type=Fixed
+
+[symbolic/emotes]
+Context=Emotes
+Size=16
+Type=Fixed
+
+[symbolic/mimetypes]
+Context=MimeTypes
+Size=16
+Type=Fixed
+
+[symbolic/panel]
+Context=Status
+Size=16
+Type=Fixed
+
+[symbolic/places]
+Context=Places
+Size=16
+Type=Fixed
+
+[symbolic/status]
+Context=Status
+Size=16
+Type=Fixed
+
 [symbolic22/actions]
 Context=Actions
+Size=22
+Type=Fixed
+
+[symbolic22/animations]
+Context=Animations
 Size=22
 Type=Fixed
 
@@ -194,8 +258,18 @@ Context=Status
 Size=22
 Type=Fixed
 
+[symbolic22/status/places]
+Context=Places
+Size=22
+Type=Fixed
+
 [symbolic16/actions]
 Context=Actions
+Size=16
+Type=Fixed
+
+[symbolic16/animations]
+Context=Animations
 Size=16
 Type=Fixed
 
@@ -296,6 +370,11 @@ MinSize=22
 MaxSize=36
 Type=Scalable
 
+[symbolic16/status/places]
+Context=Places
+Size=16
+Type=Fixed
+
 # 16x16@2x
 [16@2x/actions]
 Context=Actions
@@ -327,6 +406,24 @@ Scale=2
 Size=16
 Type=Fixed
 
+[16@2x/apps]
+Context=Applications
+Scale=2
+Size=16
+Type=Fixed
+
+[16@2x/devices]
+Context=Devices
+Scale=2
+Size=16
+Type=Fixed
+
+[16@2x/mimetypes]
+Context=MimeTypes
+Scale=2
+Size=16
+Type=Fixed
+
 [16@2x/places]
 Context=Places
 Scale=2
@@ -340,7 +437,7 @@ Scale=2
 Size=22
 Type=Fixed
 
-[22@2/apps]
+[22@2x/apps]
 Context=Applications
 Scale=2
 Size=22
@@ -473,6 +570,24 @@ Scale=3
 Size=16
 Type=Fixed
 
+[16@3x/apps]
+Context=Applications
+Scale=3
+Size=16
+Type=Fixed
+
+[16@3x/devices]
+Context=Devices
+Scale=3
+Size=16
+Type=Fixed
+
+[16@3x/mimetypes]
+Context=MimeTypes
+Scale=3
+Size=16
+Type=Fixed
+
 [16@3x/places]
 Context=Places
 Scale=3
@@ -486,7 +601,7 @@ Scale=3
 Size=22
 Type=Fixed
 
-[22@3/apps]
+[22@3x/apps]
 Context=Applications
 Scale=3
 Size=22
