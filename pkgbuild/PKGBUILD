@@ -75,7 +75,7 @@ package() {
     cp -Rf papirus-icon-theme/Papirus-Dark/16x16/devices bigicons-papirus/16x16/devices
     cp -Rf papirus-icon-theme/Papirus-Dark/16x16/places bigicons-papirus/16x16/places
     
-    cp -Rf papirus-icon-theme/Papirus-Dark/18x18/actions bigicons-papirus/18x18/actions
+    cp -Rf papirus-icon-theme/Papirus-Dark/18x18 bigicons-papirus/18x18
 
     cp -Rf papirus-icon-theme/Papirus-Light/22x22/panel bigicons-papirus/22x22/panel
     cp -Rf papirus-icon-theme/Papirus-Light/22x22/animations bigicons-papirus/22x22/animations
@@ -92,7 +92,7 @@ package() {
     cp -Rf papirus-icon-theme/Papirus-Dark/16x16/devices bigicons-papirus-dark/16x16/devices
     cp -Rf papirus-icon-theme/Papirus-Dark/16x16/places bigicons-papirus-dark/16x16/places
     
-    cp -Rf papirus-icon-theme/Papirus-Dark/18x18/actions bigicons-papirus-dark/18x18/actions
+    cp -Rf papirus-icon-theme/Papirus-Dark/18x18 bigicons-papirus-dark/18x18
 
     cp -Rf papirus-icon-theme/Papirus-Light/22x22/panel bigicons-papirus-dark/22x22/panel
     cp -Rf papirus-icon-theme/Papirus-Light/22x22/animations bigicons-papirus-dark/22x22/animations
@@ -103,6 +103,9 @@ package() {
     cp -Rf papirus-icon-theme/Papirus-Dark/24x24/actions bigicons-papirus-dark/24x24/actions
     
     cp -Rf papirus-icon-theme/Papirus-Dark/symbolic bigicons-papirus-dark/symbolic
+    
+    
+    rm -R papirus-icon-theme
 
     # Force color in dark icons
     find bigicons-papirus-dark -type f -name "*.svg" ! -type l -exec sed -i 's/color:#dfdfdf/color:#b0b0b0/g;s/color:#444444/color:#b0b0b0/g;s/color:#888888/color:#b0b0b0/g;s/current-color-scheme/currentColor/g' {} +
