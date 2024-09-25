@@ -92,7 +92,7 @@ package() {
     cp -Rf papirus-icon-theme/Papirus/16x16/panel bigicons-papirus-dark/16x16/panel
     cp -Rf papirus-icon-theme/Papirus-Dark/16x16/devices bigicons-papirus-dark/16x16/devices
     cp -Rf papirus-icon-theme/Papirus-Dark/16x16/places bigicons-papirus-dark/16x16/places
-    cp -Rf papirus-icon-theme/Papirus-Dark/16x16/actions bigicons-papirus/16x16/actions
+    cp -Rf papirus-icon-theme/Papirus-Dark/16x16/actions bigicons-papirus-dark/16x16/actions
     
     cp -Rf papirus-icon-theme/Papirus-Dark/18x18 bigicons-papirus-dark/18x18
 
