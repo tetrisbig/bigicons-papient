@@ -107,10 +107,10 @@ package() {
     
     rm -R papirus-icon-theme
 
-    # Force color in dark icons
-    find bigicons-papirus-dark -type f -name "*.svg" ! -type l -exec sed -i 's/color:#dfdfdf/color:#b0b0b0/g;s/color:#444444/color:#b0b0b0/g;s/color:#888888/color:#b0b0b0/g;s/current-color-scheme/currentColor/g' {} +
+    # Force color in dark icons ignoring scalable folder
+    find bigicons-papirus-dark -type d -name scalable -prune -o -type f -name "*.svg" ! -type l -exec sed -i 's/color:#dfdfdf/color:#b0b0b0/g;s/color:#444444/color:#b0b0b0/g;s/color:#888888/color:#b0b0b0/g;s/current-color-scheme/currentColor/g' {} +
 
     # Force color
-    find bigicons-papirus -type f -name "*.svg" ! -type l -exec sed -i 's/color:#dfdfdf/color:#606060/g;s/color:#444444/color:#606060/g;s/color:#888888/color:#606060/g;s/current-color-scheme/currentColor/g' {} +
+    find bigicons-papirus-dark -type d -name scalable -prune -o -type f -name "*.svg" ! -type l -exec sed -i 's/color:#dfdfdf/color:#606060/g;s/color:#444444/color:#606060/g;s/color:#888888/color:#606060/g;s/current-color-scheme/currentColor/g' {} +
 
 }
