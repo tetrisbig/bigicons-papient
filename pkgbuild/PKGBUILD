@@ -85,7 +85,7 @@ package() {
     cp -Rf papirus-icon-theme/Papirus-Light/24x24/animations bigicons-papirus/24x24/animations
     cp -Rf papirus-icon-theme/Papirus-Dark/24x24/actions bigicons-papirus/24x24/actions
     
-    cp -Rf papirus-icon-theme/Papirus-Dark/symbolic bigicons-papirus/symbolic
+    cp -Rf papirus-icon-theme/Papirus/symbolic bigicons-papirus/symbolic
     
     #bigicons-papirus-dark
     cp -Rf papirus-icon-theme/Papirus-Light/16x16/panel bigicons-papirus-dark/16x16/panel
@@ -102,7 +102,7 @@ package() {
     cp -Rf papirus-icon-theme/Papirus-Light/24x24/animations bigicons-papirus-dark/24x24/animations
     cp -Rf papirus-icon-theme/Papirus-Dark/24x24/actions bigicons-papirus-dark/24x24/actions
     
-    cp -Rf papirus-icon-theme/Papirus-Dark/symbolic bigicons-papirus-dark/symbolic
+    cp -Rf papirus-icon-theme/Papirus/symbolic bigicons-papirus-dark/symbolic
     
     
     rm -R papirus-icon-theme
