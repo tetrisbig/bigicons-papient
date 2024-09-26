@@ -107,6 +107,30 @@ package() {
     cp -Rf papirus-icon-theme/Papirus/symbolic bigicons-papirus-dark/symbolic
     
     
+    # Kalarm symbolic dark
+    cd bigicons-papirus-dark/22x22/panel; ln -s alarm-clock-panel.svg kalarm-symbolic.svg
+    cd ../../24x24/panel; ln -s alarm-clock-panel.svg kalarm-symbolic.svg
+    cd ../../32x32/panel; ln -s alarm-clock-panel.svg kalarm-symbolic.svg
+    cd ../../../
+
+    # Kalarm symbolic
+    cd bigicons-papirus/22x22/panel; ln -s alarm-clock-panel.svg kalarm-symbolic.svg
+    cd ../../24x24/panel; ln -s alarm-clock-panel.svg kalarm-symbolic.svg
+    cd ../../32x32/panel; ln -s alarm-clock-panel.svg kalarm-symbolic.svg
+    cd ../../../
+
+    # manjaro-settings-manager.svg symbolic dark
+    cd bigicons-papirus-dark/22x22/panel; ln -s manjaro-settings-manager-panel.svg kalarm-symbolic.svg
+    cd ../../24x24/panel; ln -s manjaro-settings-manager-panel.svg manjaro-settings-manager.svg
+    cd ../../32x32/panel; ln -s manjaro-settings-manager-panel.svg manjaro-settings-manager.svg
+    cd ../../../
+
+    # manjaro-settings-manager.svg symbolic
+    cd bigicons-papirus/22x22/panel; ln -s manjaro-settings-manager-panel.svg manjaro-settings-manager.svg
+    cd ../../24x24/panel; ln -s manjaro-settings-manager-panel.svg manjaro-settings-manager.svg
+    cd ../../32x32/panel; ln -s manjaro-settings-manager-panel.svg manjaro-settings-manager.svg
+    cd ../../../
+    
     rm -R papirus-icon-theme
 
     # Force color in dark icons ignoring scalable folder
