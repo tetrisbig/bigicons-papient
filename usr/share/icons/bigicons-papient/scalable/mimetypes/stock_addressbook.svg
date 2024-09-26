@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
+ <rect x="1" y="1" width="22" height="22" rx="6.6" fill="url(#a)" opacity="0.9" style="-inkscape-stroke:hairline;fill:url(#a);stroke-opacity:.2;stroke:gray;vector-effect:non-scaling-stroke"/>
+dasharray:none;stroke:gray;stroke-opacity:.2"/>
+ <text id="labelText" x="12" y="17" text-anchor="middle" alignment-baseline="middle" style="font-size:15px;font-family:Sans;letter-spacing:0.5px;text-anchor:middle;fill:#ffffff"><tspan>@</tspan></text>
+<defs>
+  <linearGradient id="a" x1=".05" x2="1" y1="0" y2="1" gradientTransform="scale(22)" gradientUnits="userSpaceOnUse">
+   <stop  style="stop-color:#61a1cc" offset="0.2"/>
+   <stop  style="stop-color:#85C1EA" offset="0.205"/>
+   <stop  style="stop-color:#3C90C9" offset="1"/>
+  </linearGradient>
+</defs>
+</svg>

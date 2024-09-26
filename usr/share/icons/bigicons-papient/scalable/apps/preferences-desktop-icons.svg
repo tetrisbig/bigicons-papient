@@ -1,0 +1,23 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient13" x1="25.664" x2="25.489" y1="43.393" y2="4.9357" gradientTransform="matrix(1.0848 0 0 1 -2.0355 0)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#279adc" offset="0"/>
+   <stop style="stop-color:#0d75c0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="3.2363" y="4.8811" width="41.528" height="38.281" rx="5.8033" ry="4.5867" style="fill:url(#linearGradient13);stroke-width:.99678"/>
+ <g transform="matrix(.95702 0 0 .95702 1.0315 2.01)" opacity=".2">
+  <rect x="8" y="8" width="8" height="8" rx="1" ry="1"/>
+  <rect x="8" y="19" width="8" height="8" rx="1" ry="1"/>
+  <rect x="8" y="30" width="8" height="8" rx="1" ry="1"/>
+  <rect x="19" y="8" width="8" height="8" rx="1" ry="1"/>
+  <rect x="19" y="19" width="8" height="8" rx="1" ry="1"/>
+ </g>
+ <g transform="matrix(.95702 0 0 .95702 1.0315 1.053)" fill="#ffffff">
+  <rect x="8" y="8" width="8" height="8" rx="1" ry="1" style="fill:#ac9d93"/>
+  <rect x="8" y="19" width="8" height="8" rx="1" ry="1" style="fill:#ffe680"/>
+  <rect x="8" y="30" width="8" height="8" rx="1" ry="1" style="fill:#00afbf"/>
+  <rect x="19" y="8" width="8" height="8" rx="1" ry="1" style="fill:#ffb380"/>
+  <rect x="19" y="19" width="8" height="8" rx="1" ry="1" style="fill:#de8787"/>
+ </g>
+</svg>

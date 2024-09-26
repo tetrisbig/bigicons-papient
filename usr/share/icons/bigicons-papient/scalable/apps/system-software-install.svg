@@ -1,0 +1,14 @@
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="matrix(0 5.8207 -5.0322 0 18.506 .265)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#9cc8fc" offset="0"/>
+   <stop style="stop-color:#549bff" offset="1"/>
+  </radialGradient>
+ </defs>
+ <rect x="2.8624" y="2.1239" width="18.275" height="19.752" rx="2.3396" fill="url(#a)" opacity=".9" stroke="#808080" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline;fill:url(#a);stroke-width:.86362"/>
+ <g transform="matrix(3.3773 0 0 3.3773 1.2765 1.2785)">
+  <path transform="translate(-16.35)" d="m19.116 2.965v1.365h-0.683l1.092 1.091 1.091-1.091h-0.682v-1.365z" style="fill:#ffffff"/>
+  <path transform="translate(-16.35)" d="m18.952 1.492a0.332 0.332 0 1 0 0-0.663 0.332 0.332 0 0 0 0 0.663m1.168 0a0.33 0.33 0 0 0 0.33-0.332 0.331 0.331 0 1 0-0.662 0c0 0.184 0.149 0.332 0.332 0.332" style="fill:#457eff"/>
+  <path transform="translate(-16.35)" d="m20.119 1.193v0.312a0.587 0.587 0 0 1-1.174 0v-0.312" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:.24253;stroke:#ffffff"/>
+ </g>
+</svg>

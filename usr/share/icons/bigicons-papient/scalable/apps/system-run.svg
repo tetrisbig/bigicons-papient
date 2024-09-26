@@ -1,0 +1,22 @@
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1.4307" y="2.1239" width="21.138" height="19.752" rx="2.7062" fill="url(#a)" opacity=".9" stroke="#808080" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline;fill:url(#a);stroke-width:.92882"/>
+ <g transform="matrix(.6835 0 0 .6835 4.4816 4.4816)" style="fill:#ffffff">
+  <path d="m8.4307 8.1461v7.7078l5.1385-3.8539z" style="fill:url(#linearGradient8);stroke-width:1.2846"/>
+  <path d="m6 3c-1.662 0-3 1.338-3 3v10c0 1.662 1.338 3 3 3h10c1.662 0 3-1.338 3-3v-10c0-1.662-1.338-3-3-3zm0 3h10c1.108 0 2 0.892 2 2v8c0 1.108-0.892 2-2 2h-10c-1.108 0-2-0.892-2-2v-8c0-1.108 0.892-2 2-2" style="fill:url(#linearGradient11)"/>
+ </g>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="matrix(22 0 0 22 -.10264 0)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#00858e" offset=".2327"/>
+   <stop style="stop-color:#485e68" offset=".23452"/>
+   <stop style="stop-color:#35454c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient8" x1="8.4307" x2="13.569" y1="12" y2="12" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#00a4ad" offset="0"/>
+   <stop style="stop-color:#00c3cd" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient11" x1="11.462" x2="11.066" y1="2.9622" y2="19.249" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#a2ebd9" offset="0"/>
+   <stop style="stop-color:#cee7dc" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

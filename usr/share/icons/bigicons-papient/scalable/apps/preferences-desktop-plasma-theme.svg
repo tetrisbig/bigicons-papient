@@ -1,0 +1,26 @@
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(.94966 0 0 .94966 .70161 .60671)">
+  <rect x="1.7072" y="1.8097" width="20.38" height="20.38" rx="3.0429" fill="url(#a)" opacity=".9" stroke="#808080" stroke-opacity=".2" vector-effect="non-scaling-stroke" style="-inkscape-stroke:hairline;fill:url(#a);opacity:1;stroke-width:.92638"/>
+  <path class="ColorScheme-Highlight" d="m1.7487 19.414c0.00254 1.2522 1.2375 2.7696 2.8946 2.7687l14.613-0.0078c1.6666-8.9e-4 2.8662-1.6278 2.7844-2.6591z" color="#3584e4" fill="#ffffff" opacity=".5" vector-effect="non-scaling-stroke" style="stroke-width:.82042"/>
+  <g transform="matrix(.92637 0 0 .92637 .87595 .88331)" fill="#000000" stroke-width="1.4084">
+   <rect x="5.9816" y="2.01" width="1.4885" height=".74578" ry=".37389" opacity=".35" style="paint-order:stroke markers fill"/>
+   <rect x="10.135" y="2.01" width="3.7222" height=".74578" ry=".37389" opacity=".35" style="paint-order:stroke markers fill"/>
+   <rect x="17.255" y="2.01" width=".74424" height=".74578" ry=".37389" opacity=".35" style="paint-order:stroke markers fill"/>
+   <rect x="15.767" y="2.01" width="1.1174" height=".74578" ry=".37389" opacity=".35" style="paint-order:stroke markers fill"/>
+   <rect x="14.649" y="2.01" width=".74424" height=".74578" ry=".37389" opacity=".35" style="paint-order:stroke markers fill"/>
+  </g>
+  <g transform="matrix(.34115 0 0 .34185 1.0786 2.0359)" fill="#ccdfff" stroke-width="3.78">
+   <rect x="17.001" y="48.001" width="5" height="5" ry=".499" style="paint-order:stroke markers fill"/>
+   <rect x="25.335" y="48.001" width="5" height="5" ry=".499" style="paint-order:stroke markers fill"/>
+   <rect x="33.669" y="48.001" width="5" height="5" ry=".499" style="paint-order:stroke markers fill"/>
+   <rect x="42.003" y="48.001" width="5" height="5" ry=".499" style="paint-order:stroke markers fill"/>
+  </g>
+  <path class="ColorScheme-Highlight" d="m4.5354 1.8344c-2.1464 0.0043854-2.8867 2.5733-2.7547 2.5055l20.226-0.09472c-0.24046-1.1362-0.97627-2.292-2.9096-2.4405z" color="#3584e4" fill="#aaaaaa" opacity=".3" vector-effect="non-scaling-stroke" style="fill:#cecece;opacity:.40243;stroke-width:.92638"/>
+ </g>
+ <defs>
+  <linearGradient id="a" x1=".05" x2="1" y2="1" gradientTransform="matrix(20.38 0 0 20.38 .78086 .88331)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#42a7de" offset="0"/>
+   <stop style="stop-color:#0d75c0" offset="1"/>
+  </linearGradient>
+ </defs>
+</svg>

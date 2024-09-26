@@ -1,0 +1,10 @@
+<svg width="24" height="24" fill="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Highlight {color:#547e95;}</style>
+ </defs>
+ <rect x=".89736" y="1" width="22" height="22" rx="9.106" fill="url(#a)" opacity=".9" stroke="#808080" stroke-opacity=".2" vector-effect="non-scaling-stroke" class="ColorScheme-Highlight" style="fill:currentColor;opacity:.7;vector-effect:non-scaling-stroke"/>
+ <path d="m12.006 2.3767c-7.8728 0-8.6609 3.9368-8.6609 8.6609 0 6.2975 2.3625 8.6609 8.6609 8.6609 6.2984 0 8.6609-2.3625 8.6609-8.6609 0-4.7241-0.78719-8.6609-8.6609-8.6609" fill="url(#b)" fill-opacity=".875" opacity=".125" style="stroke-width:.96228"/>
+ <path d="m12.006 3.3391c-7.8728 0-8.6609 3.9368-8.6609 8.6609 0 6.2975 2.3625 8.6609 8.6609 8.6609 6.2984 0 8.6609-2.3625 8.6609-8.6609 0-4.7241-0.78719-8.6609-8.6609-8.6609" fill="#ffffff" style="stroke-width:.96228"/>
+ <path class="ColorScheme-Highlight" d="m22.576 12.733a2.8966 2.8966 0 0 0-2.885-2.6627h-5.6787a4.5037 4.5037 0 0 1-2.8389-1.0075 4.5037 4.5037 0 0 0-2.8398-1.0085h-4.0254a2.8966 2.8966 0 0 0-2.861 2.454q-0.02887 0.73233-0.027907 1.4916c0 7.6976 2.8869 10.586 10.582 10.586 7.4456 0 10.39-2.7032 10.574-9.8526" style="fill:currentColor;opacity:.65;stroke-width:.96228"/>
+ <path d="m22.571 10.832a2.8966 2.8966 0 0 0-2.8793-2.5886h-5.6787a4.5037 4.5037 0 0 1-2.8389-1.0085 4.5037 4.5037 0 0 0-2.8398-1.0085h-4.0254c-1.1105 0-2.0748 0.62551-2.5598 1.5417-0.26368 1.3021-0.32912 2.735-0.32912 4.2323 0 7.6976 2.8869 10.586 10.582 10.586 7.6909 0 10.58-2.8831 10.583-10.57v-0.03465q0-0.5822-0.01636-1.1491" fill="#000000" fill-opacity=".75" opacity=".25" style="opacity:.06;stroke-width:.96228"/>
+</svg>
