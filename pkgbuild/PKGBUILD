@@ -120,7 +120,7 @@ package() {
     cd ../../../
 
     # manjaro-settings-manager.svg symbolic dark
-    cd bigicons-papirus-dark/22x22/panel; ln -s manjaro-settings-manager-panel.svg kalarm-symbolic.svg
+    cd bigicons-papirus-dark/22x22/panel; ln -s manjaro-settings-manager-panel.svg manjaro-settings-manager.svg
     cd ../../24x24/panel; ln -s manjaro-settings-manager-panel.svg manjaro-settings-manager.svg
     cd ../../32x32/panel; ln -s manjaro-settings-manager-panel.svg manjaro-settings-manager.svg
     cd ../../../
