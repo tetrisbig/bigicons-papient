@@ -43,67 +43,42 @@ package() {
     git clone https://github.com/PapirusDevelopmentTeam/papirus-icon-theme.git
     
     # bigicons-papient
-    cp -Rf papirus-icon-theme/Papirus/16x16/panel bigicons-papient/16x16/panel
     cp -Rf papirus-icon-theme/Papirus/16x16/actions bigicons-papient/16x16/actions
     cp -Rf papirus-icon-theme/Papirus-Dark/16x16/devices bigicons-papient/16x16/devices
     cp -Rf papirus-icon-theme/Papirus-Dark/16x16/places bigicons-papient/16x16/places
     
-    cp -Rf papirus-icon-theme/Papirus-Dark/18x18 bigicons-papient/18x18
-
     cp -Rf papirus-icon-theme/Papirus/22x22/panel bigicons-papient/22x22/panel
-    cp -Rf papirus-icon-theme/Papirus/22x22/animations bigicons-papient/22x22/animations
     cp -Rf papirus-icon-theme/Papirus-Dark/22x22/actions bigicons-papient/22x22/actions
-    
-    cp -Rf papirus-icon-theme/Papirus/24x24/panel bigicons-papient/24x24/panel
-    cp -Rf papirus-icon-theme/Papirus/24x24/animations bigicons-papient/24x24/animations
-    cp -Rf papirus-icon-theme/Papirus-Dark/24x24/actions bigicons-papient/24x24/actions
     
     cp -Rf papirus-icon-theme/Papirus/symbolic bigicons-papient/symbolic
     
     #bigicons-papient-dark
-    cp -Rf papirus-icon-theme/Papirus/16x16/panel bigicons-papient-dark/16x16/panel
     cp -Rf papirus-icon-theme/Papirus-Dark/16x16/devices bigicons-papient-dark/16x16/devices
     cp -Rf papirus-icon-theme/Papirus-Dark/16x16/places bigicons-papient-dark/16x16/places
     cp -Rf papirus-icon-theme/Papirus-Dark/16x16/actions bigicons-papient-dark/16x16/actions
     
-    cp -Rf papirus-icon-theme/Papirus-Dark/18x18 bigicons-papient-dark/18x18
-
     cp -Rf papirus-icon-theme/Papirus/22x22/panel bigicons-papient-dark/22x22/panel
-    cp -Rf papirus-icon-theme/Papirus/22x22/animations bigicons-papient-dark/22x22/animations
     cp -Rf papirus-icon-theme/Papirus-Dark/22x22/actions bigicons-papient-dark/22x22/actions
-    
-    cp -Rf papirus-icon-theme/Papirus/24x24/panel bigicons-papient-dark/24x24/panel
-    cp -Rf papirus-icon-theme/Papirus/24x24/animations bigicons-papient-dark/24x24/animations
-    cp -Rf papirus-icon-theme/Papirus-Dark/24x24/actions bigicons-papient-dark/24x24/actions
     
     cp -Rf papirus-icon-theme/Papirus/symbolic bigicons-papient-dark/symbolic
     
     
     # Kalarm symbolic dark PAPIENT
     cd bigicons-papient-dark/22x22/panel; ln -s alarm-clock-panel.svg kalarm-symbolic.svg
-    cd ../../24x24/panel; ln -s alarm-clock-panel.svg kalarm-symbolic.svg
-    cd ../../32x32/panel; ln -s alarm-clock-panel.svg kalarm-symbolic.svg
     cd ../../../
 
     # Kalarm symbolic PAPIENT
     cd bigicons-papient/22x22/panel; ln -s alarm-clock-panel.svg kalarm-symbolic.svg
-    cd ../../24x24/panel; ln -s alarm-clock-panel.svg kalarm-symbolic.svg
-    cd ../../32x32/panel; ln -s alarm-clock-panel.svg kalarm-symbolic.svg
     cd ../../../
 
     # manjaro-settings-manager.svg symbolic dark PAPIENT
     cd bigicons-papient-dark/22x22/panel; ln -s manjaro-settings-manager-panel.svg manjaro-settings-manager.svg
-    cd ../../24x24/panel; ln -s manjaro-settings-manager-panel.svg manjaro-settings-manager.svg
-    cd ../../32x32/panel; ln -s manjaro-settings-manager-panel.svg manjaro-settings-manager.svg
     cd ../../../
 
     # manjaro-settings-manager.svg symbolic PAPIENT
     cd bigicons-papient/22x22/panel; ln -s manjaro-settings-manager-panel.svg manjaro-settings-manager.svg
-    cd ../../24x24/panel; ln -s manjaro-settings-manager-panel.svg manjaro-settings-manager.svg
-    cd ../../32x32/panel; ln -s manjaro-settings-manager-panel.svg manjaro-settings-manager.svg
     cd ../../../
-    
-    
+
     rm -R papirus-icon-theme
 
     # Force color in dark icons ignoring scalable folder
