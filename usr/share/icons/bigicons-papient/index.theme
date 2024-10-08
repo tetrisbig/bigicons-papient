@@ -21,27 +21,27 @@ DialogDefault=48
 DialogSizes=16,22,24,32,48,64
 
 # Directory list
-Directories=scalable/actions,scalable/apps,16x16/actions,16x16/devices,16x16/emblems,16x16/emotes,16x16/panel,16x16/places,16x16/status,22x22/actions,22x22/emblems,22x22/panel,22x22/status,48x48/actions,48x48/apps,scalable/mimetypes,scalable/places,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status,scalable/apps
+Directories=scalable/actions,scalable/apps,22x22/actions,22x22/emblems,22x22/panel,22x22/status,16x16/actions,16x16/devices,16x16/emblems,16x16/emotes,16x16/panel,16x16/places,16x16/status,48x48/actions,48x48/apps,scalable/mimetypes,scalable/places,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/devices,symbolic/emblems,symbolic/emotes,symbolic/mimetypes,symbolic/places,symbolic/status,scalable/apps
 
 [16x16/actions]
 Context=Actions
 Size=16
 MinSize=8
-MaxSize=30
+MaxSize=32
 Type=Scalable
 
 [16x16/devices]
 Context=Devices
 Size=16
 MinSize=8
-MaxSize=30
+MaxSize=32
 Type=Scalable
 
 [16x16/emblems]
 Context=Emblems
 Size=16
 MinSize=8
-MaxSize=30
+MaxSize=32
 Type=Scalable
 
 
@@ -49,7 +49,7 @@ Type=Scalable
 Context=Emotes
 Size=16
 MinSize=8
-MaxSize=30
+MaxSize=32
 Type=Scalable
 
 
@@ -57,7 +57,7 @@ Type=Scalable
 Context=Status
 Size=16
 MinSize=8
-MaxSize=30
+MaxSize=32
 Type=Scalable
 
 
@@ -65,7 +65,7 @@ Type=Scalable
 Context=Places
 Size=16
 MinSize=8
-MaxSize=30
+MaxSize=32
 Type=Scalable
 
 
@@ -73,7 +73,7 @@ Type=Scalable
 Context=Status
 Size=16
 MinSize=8
-MaxSize=30
+MaxSize=32
 Type=Scalable
 
 
@@ -124,63 +124,63 @@ Type=Scalable
 Context=Actions
 Size=16
 MinSize=8
-MaxSize=30
+MaxSize=32
 Type=Scalable
 
 [symbolic/apps]
 Context=Applications
 Size=16
 MinSize=8
-MaxSize=30
+MaxSize=32
 Type=Scalable
 
 [symbolic/categories]
 Context=Categories
 Size=16
 MinSize=8
-MaxSize=30
+MaxSize=32
 Type=Scalable
 
 [symbolic/devices]
 Context=Devices
 Size=16
 MinSize=8
-MaxSize=30
+MaxSize=32
 Type=Scalable
 
 [symbolic/emblems]
 Context=Emblems
 Size=16
 MinSize=8
-MaxSize=30
+MaxSize=32
 Type=Scalable
 
 [symbolic/emotes]
 Context=Emotes
 Size=16
 MinSize=8
-MaxSize=30
+MaxSize=32
 Type=Scalable
 
 [symbolic/mimetypes]
 Context=MimeTypes
 Size=16
 MinSize=8
-MaxSize=30
+MaxSize=32
 Type=Scalable
 
 [symbolic/places]
 Context=Places
 Size=16
 MinSize=8
-MaxSize=30
+MaxSize=32
 Type=Scalable
 
 [symbolic/status]
 Context=Status
 Size=16
 MinSize=8
-MaxSize=30
+MaxSize=32
 Type=Scalable
 
 # Scalable
