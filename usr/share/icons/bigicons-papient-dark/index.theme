@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=bigicons-papient-dark
 Comment=Papirus theme using gray symbolic icons complemented by Big icons
-Inherits=breeze,Adwaita
+Inherits=breeze-dark,Adwaita
 
 Example=folder
 
